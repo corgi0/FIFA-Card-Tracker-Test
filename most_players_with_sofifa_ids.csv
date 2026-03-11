@@ -1,0 +1,830 @@
+player,player_key,player_shortlike_key,matched_sofifa_id,matched_short_name,matched_long_name,match_method,match_score,sofifa_id,needs_manual_review
+Aaron Long,aaron long,a long,222123.0,A. Long,Aaron Long,exact_long_name,100.0,222123.0,False
+Aaron Mooy,aaron mooy,a mooy,194958.0,A. Mooy,Aaron Frank Mooy,exact_player_to_short_name,99.0,194958.0,False
+Aaron Ramsdale,aaron ramsdale,a ramsdale,233934.0,A. Ramsdale,Aaron Ramsdale,exact_long_name,100.0,233934.0,False
+Aaron Ramsey,aaron ramsey,a ramsey,186561.0,A. Ramsey,Aaron Ramsey,exact_long_name,100.0,186561.0,False
+Abdelhamid Sabiri,abdelhamid sabiri,a sabiri,,,,unmatched,,,True
+Abdelkarim Hassan,abdelkarim hassan,a hassan,210259.0,A. Hassan,Ahmed Hassan Mahgoub,exact_player_to_short_name,99.0,210259.0,False
+Abderrazak Hamdallah,abderrazak hamdallah,a hamdallah,213761.0,A. Hamdallah,Abderrazak Hamdallah,exact_long_name,100.0,213761.0,False
+Abdessamad Ezzalzouli,abdessamad ezzalzouli,a ezzalzouli,,,,unmatched,,,True
+Abdou Diallo,abdou diallo,a diallo,225711.0,A. Diallo,Abdou Diallo,exact_long_name,100.0,225711.0,False
+Abdul Fatawu Issahaku,abdul fatawu issahaku,a issahaku,,,,unmatched,,,True
+Abdulaziz Hatem,abdulaziz hatem,a hatem,264204.0,A. Atif,Abdulaziz Atif,long_name_fuzzy|player_key,82.75862068965517,,True
+Abdulelah Al-Amri,abdulelah al amri,a amri,241197.0,A. Al Amri,Abdulelah Ali Al-Amri,exact_player_to_short_from_long,99.0,241197.0,False
+Abdulellah Al-Malki,abdulellah al malki,a malki,230713.0,A. Al Malki,Abdulelah Saad Hameed Al-Malki,exact_player_to_short_from_long,99.0,230713.0,False
+Abdullah Madu,abdullah madu,a madu,213901.0,A. Madu,Abdullah Mohammed Madu,exact_player_to_short_name,99.0,213901.0,False
+Abdullah Otayf,abdullah otayf,a otayf,210926.0,A. Ateef,Abdullah Ibrahim Otayf,exact_player_to_short_from_long,99.0,210926.0,False
+Abdulrahman Al-Aboud,abdulrahman al aboud,a aboud,238043.0,A. Al Obud,Abdulrahman Al Obud,long_name_fuzzy|player_key,82.05128205128204,,True
+Abolfazl Jalali,abolfazl jalali,a jalali,,,,unmatched,,,True
+Achraf Dari,achraf dari,a dari,,,,unmatched,,,True
+Achraf Hakimi,achraf hakimi,a hakimi,235212.0,A. Hakimi,Achraf Hakimi Mouh,exact_player_to_short_name,99.0,235212.0,False
+Adam Davies,adam davies,a davies,234396.0,A. Davies,Alphonso Boyle Davies,exact_player_to_short_name,99.0,234396.0,False
+Adrien Rabiot,adrien rabiot,a rabiot,210008.0,A. Rabiot,Adrien Rabiot,exact_long_name,100.0,210008.0,False
+Agustín Canobbio,agustin canobbio,a canobbio,253281.0,A. Canobbio,Agustín Canobbio Graviz,exact_player_to_short_name,99.0,253281.0,False
+Ahmad Nourollahi,ahmad nourollahi,a nourollahi,,,,unmatched,,,True
+Ahmed Alaaeldin,ahmed alaaeldin,a alaaeldin,,,,unmatched,,,True
+Ahmed Reda Tagnaouti,ahmed reda tagnaouti,a tagnaouti,,,,unmatched,,,True
+Aimen Dahmen,aimen dahmen,a dahmen,,,,unmatched,,,True
+Ajdin Hrustic,ajdin hrustic,a hrustic,237647.0,A. Hrustić,Ajdin Hrustić,exact_long_name,100.0,237647.0,False
+Akram Afif,akram afif,a afif,,,,unmatched,,,True
+Alan Franco,alan franco,a franco,237604.0,A. Franco,Alan Javier Franco,exact_player_to_short_name,99.0,237604.0,False
+Alejandro Balde,alejandro balde,a balde,261444.0,A. Baldé,Aliou Badara Baldé,exact_player_to_short_name,99.0,261444.0,False
+Aleksandar Mitrović,aleksandar mitrovic,a mitrovic,215716.0,A. Mitrović,Aleksandar Mitrović,exact_long_name,100.0,215716.0,False
+Alex Sandro,alex sandro,a sandro,191043.0,Alex Sandro,Alex Sandro Lobo Silva,exact_short_name,100.0,191043.0,False
+Alex Telles,alex telles,a telles,212462.0,Alex Telles,Alex Nicolao Telles,exact_short_name,100.0,212462.0,False
+Alexander Bah,alexander bah,a bah,245235.0,A. Bah,Alexander Hartmann Bah,exact_player_to_short_name,99.0,245235.0,False
+Alexander Djiku,alexander djiku,a djiku,212219.0,A. Djiku,Alexander Djiku,exact_long_name,100.0,212219.0,False
+Alexander Domínguez,alexander dominguez,a dominguez,237923.0,A. Domínguez,Alexis Domínguez,exact_player_to_short_name,99.0,237923.0,False
+Alexis Mac Allister,alexis mac allister,a allister,239837.0,A. Mac Allister,Alexis Mac Allister,exact_long_name,100.0,239837.0,False
+Alexis Vega,alexis vega,a vega,233260.0,A. Vega,Ernesto Alexis Vega Rojas,exact_player_to_short_name,99.0,233260.0,False
+Alfred Gomis,alfred gomis,a gomis,201976.0,A. Gomis,Alfred Benjamin Gomis,exact_player_to_short_name,99.0,201976.0,False
+Alfredo Talavera,alfredo talavera,a talavera,156433.0,A. Talavera,Alfredo Talavera Díaz,exact_player_to_short_name,99.0,156433.0,False
+Ali Abdi,ali abdi,a abdi,252711.0,A. Abdi,Ali Abdi,exact_long_name,100.0,252711.0,False
+Ali Al Hassan,ali al hassan,a hassan,210259.0,A. Hassan,Ahmed Hassan Mahgoub,exact_player_to_short_name,99.0,210259.0,False
+Ali Al-Bulaihi,ali al bulaihi,a bulaihi,229851.0,A. Al Bulayhi,Ali Hadi Al-Bulaihi,exact_player_to_short_from_long,99.0,229851.0,False
+Ali Assadalla,ali assadalla,a assadalla,,,,unmatched,,,True
+Ali Gholizadeh,ali gholizadeh,a gholizadeh,243551.0,A. Gholizadeh,Ali Gholizadeh,exact_long_name,100.0,243551.0,False
+Ali Karimi,ali karimi,a karimi,241793.0,A. Karimi,Ali Karimi,exact_long_name,100.0,241793.0,False
+Ali Maâloul,ali maaloul,a maaloul,,,,unmatched,,,True
+Alidu Seidu,alidu seidu,a seidu,257946.0,A. Seidu,Alidu Seidu,exact_long_name,100.0,257946.0,False
+Alireza Beiranvand,alireza beiranvand,a beiranvand,241790.0,A. Beiranvand,Alireza Safar Beiranvand,exact_player_to_short_name,99.0,241790.0,False
+Alireza Jahanbakhsh,alireza jahanbakhsh,a jahanbakhsh,215871.0,A. Jahanbakhsh,Alireza Jahanbakhsh,exact_long_name,100.0,215871.0,False
+Alisson,alisson,alisson,212831.0,Alisson,Alisson Ramsés Becker,exact_short_name,100.0,212831.0,False
+Alistair Johnston,alistair johnston,a johnston,256107.0,A. Johnston,Alistair Johnston,exact_long_name,100.0,256107.0,False
+Almoez Ali,almoez ali,a ali,,,,unmatched,,,True
+Alphonse Areola,alphonse areola,a areola,193105.0,A. Areola,Alphonse Areola,exact_long_name,100.0,193105.0,False
+Alphonso Davies,alphonso davies,a davies,234396.0,A. Davies,Alphonso Boyle Davies,exact_player_to_short_name,99.0,234396.0,False
+Amadou Onana,amadou onana,a onana,257057.0,A. Onana,Amadou Zeund Georges Ba Mvom Onana,exact_player_to_short_name,99.0,257057.0,False
+Amir Abedzadeh,amir abedzadeh,a abedzadeh,237419.0,A. Abedzadeh,Amir Abedzadeh,exact_long_name,100.0,237419.0,False
+Anass Zaroury,anass zaroury,a zaroury,260843.0,A. Zaroury,Anass Zaroury,exact_long_name,100.0,260843.0,False
+Andre-Frank Zambo Anguissa,andre frank zambo anguissa,a anguissa,227236.0,A. Zambo Anguissa,André-Franck Zambo Anguissa,exact_player_to_short_from_long,99.0,227236.0,False
+Andreas Christensen,andreas christensen,a christensen,213661.0,A. Christensen,Andreas Bødtker Christensen,exact_player_to_short_name,99.0,213661.0,False
+Andreas Cornelius,andreas cornelius,a cornelius,201943.0,A. Cornelius,Andreas Evald Cornelius,exact_player_to_short_name,99.0,201943.0,False
+Andreas Skov Olsen,andreas skov olsen,a olsen,240017.0,A. Olsen,Andreas Skov Olsen,exact_long_name,100.0,240017.0,False
+Andrej Kramarić,andrej kramaric,a kramaric,216354.0,A. Kramarić,Andrej Kramarić,exact_long_name,100.0,216354.0,False
+Andrew Redmayne,andrew redmayne,a redmayne,183244.0,A. Redmayne,Andrew James Redmayne,exact_player_to_short_name,99.0,183244.0,False
+Andries Noppert,andries noppert,a noppert,218212.0,A. Noppert,Andries Noppert,exact_long_name,100.0,218212.0,False
+Andrija Živković,andrija zivkovic,a zivkovic,220746.0,A. Živković,Andrija Živković,exact_long_name,100.0,220746.0,False
+André Ayew,andre ayew,a ayew,,,,unmatched,,,True
+André Onana,andre onana,a onana,257057.0,A. Onana,Amadou Zeund Georges Ba Mvom Onana,exact_player_to_short_name,99.0,257057.0,False
+André Silva,andre silva,a silva,228941.0,André Silva,André Miguel Valente da Silva,exact_short_name,100.0,228941.0,False
+Andrés Guardado,andres guardado,a guardado,171897.0,A. Guardado,José Andrés Guardado Hernández,exact_player_to_short_name,99.0,171897.0,False
+Anis Ben Slimane,anis ben slimane,a slimane,255210.0,A. Slimane,Anis Ben Slimane,exact_long_name,100.0,255210.0,False
+Ansu Fati,ansu fati,a fati,253004.0,Ansu Fati,Anssumane Fati,exact_short_name,100.0,253004.0,False
+Ante Budimir,ante budimir,a budimir,188335.0,A. Budimir,Ante Budimir,exact_long_name,100.0,188335.0,False
+Anthony Contreras,anthony contreras,a contreras,213597.0,D. Valdés,Diego Alfonso Valdés Contreras,short_from_long_fuzzy|player_shortlike_key,81.81818181818181,,True
+Anthony Hernández,anthony hernandez,a hernandez,255119.0,A. Hernández,Andrés Alejandro Hernández Hernández,exact_player_to_short_name,99.0,255119.0,False
+Antoine Griezmann,antoine griezmann,a griezmann,194765.0,A. Griezmann,Antoine Griezmann,exact_long_name,100.0,194765.0,False
+Antoine Semenyo,antoine semenyo,a semenyo,241236.0,A. Semenyo,Antoine Semenyo,exact_long_name,100.0,241236.0,False
+Antonee Robinson,antonee robinson,a robinson,229348.0,A. Robinson,Antonee Robinson,exact_long_name,100.0,229348.0,False
+Antonio Rüdiger,antonio rudiger,a rudiger,205452.0,A. Rüdiger,Antonio Rüdiger,exact_long_name,100.0,205452.0,False
+Antony,antony,antony,255475.0,Antony,Antony Matheus dos Santos,exact_short_name,100.0,255475.0,False
+António Silva,antonio silva,a silva,218868.0,A. Silva,Alejandro Daniel Silva González,exact_player_to_short_name,99.0,218868.0,False
+Ao Tanaka,ao tanaka,a tanaka,236764.0,A. Tanaka,田中 青,exact_player_to_short_name,99.0,236764.0,False
+Ardon Jasari,ardon jasari,a jasari,257186.0,A. Jashari,Ardon Jashari,long_name_fuzzy|player_key,96.0,257186.0,False
+Arkadiusz Milik,arkadiusz milik,a milik,205175.0,A. Milik,Arkadiusz Krystian Milik,exact_player_to_short_name,99.0,205175.0,False
+Armel Bella Kotchap,armel bella kotchap,a kotchap,247497.0,A. Bella Kotchap,Armel Bella Kotchap,exact_long_name,100.0,247497.0,False
+Arthur Theate,arthur theate,a theate,257278.0,A. Theate,Arthur Nicolas Theate,exact_player_to_short_name,99.0,257278.0,False
+Artur Jędrzejczyk,artur jedrzejczyk,a jedrzejczyk,177790.0,A. Jędrzejczyk,Artur Jędrzejczyk,exact_long_name,100.0,177790.0,False
+Asiri Haitham,asiri haitham,a haitham,,,,unmatched,,,True
+Assim Madibo,assim madibo,a madibo,,,,unmatched,,,True
+Atiba Hutchinson,atiba hutchinson,a hutchinson,134744.0,A. Hutchinson,Atiba Hutchinson,exact_long_name,100.0,134744.0,False
+Aurélien Tchouaméni,aurelien tchouameni,a tchouameni,241637.0,A. Tchouaméni,Aurélien Tchouaméni,exact_long_name,100.0,241637.0,False
+Awer Mabil,awer mabil,a mabil,212830.0,A. Mabil,Awer Bul Mabil,exact_player_to_short_name,99.0,212830.0,False
+Axel Disasi,axel disasi,a disasi,229942.0,A. Disasi,Axel Arthur Disasi,exact_player_to_short_name,99.0,229942.0,False
+Axel Witsel,axel witsel,a witsel,177413.0,A. Witsel,Axel Witsel,exact_long_name,100.0,177413.0,False
+Ayase Ueda,ayase ueda,a ueda,252162.0,A. Ueda,上田 綺世,exact_player_to_short_name,99.0,252162.0,False
+Aymen Mathlouthi,aymen mathlouthi,a mathlouthi,,,,unmatched,,,True
+Aymeric Laporte,aymeric laporte,a laporte,212218.0,A. Laporte,Aymeric Laporte,exact_long_name,100.0,212218.0,False
+Ayrton Preciado,ayrton preciado,a preciado,241412.0,A. Preciado,Eduar Ayrton Preciado García,exact_player_to_short_name,99.0,241412.0,False
+Aziz Behich,aziz behich,a behich,202157.0,A. Behich,Aziz Eraltay Behich,exact_player_to_short_name,99.0,202157.0,False
+Azzedine Ounahi,azzedine ounahi,a ounahi,255125.0,A. Ounahi,Azzedine Ounahi,exact_long_name,100.0,255125.0,False
+Aïssa Laïdouni,aissa laidouni,a laidouni,233642.0,A. Laïdouni,Aïssa Bilal Laïdouni,exact_player_to_short_name,99.0,233642.0,False
+Baba Rahman,baba rahman,b rahman,209620.0,B. Rahman,Abdul Rahman Baba,exact_player_to_short_name,99.0,209620.0,False
+Badr Banoun,badr banoun,b banoun,,,,unmatched,,,True
+Bailey Wright,bailey wright,b wright,198810.0,B. Wright,Bailey Colin Wright,exact_player_to_short_name,99.0,198810.0,False
+Bamba Dieng,bamba dieng,b dieng,261084.0,A. Dieng,Cheikh Ahmadou Bamba Mbacke Dieng,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Bartosz Bereszyński,bartosz bereszynski,b bereszynski,199763.0,B. Bereszyński,Bartosz Bereszyński,exact_long_name,100.0,199763.0,False
+Bassam Al-Rawi,bassam al rawi,b rawi,,,,unmatched,,,True
+Bechir Ben Saïd,bechir ben said,b said,208626.0,A. Said,Said Ahmed Said,short_name_fuzzy|player_shortlike_key,83.33333333333334,,True
+Ben Cabango,ben cabango,b cabango,248687.0,B. Cabango,Benjamin Cabango,exact_player_to_short_name,99.0,248687.0,False
+Ben Davies,ben davies,b davies,213017.0,B. Davies,Ben Davies,exact_long_name,100.0,213017.0,False
+Ben White,ben white,b white,231936.0,B. White,Benjamin White,exact_player_to_short_name,99.0,231936.0,False
+Benjamin Pavard,benjamin pavard,b pavard,226851.0,B. Pavard,Benjamin Pavard,exact_long_name,100.0,226851.0,False
+Bernardo Silva,bernardo silva,b silva,218667.0,Bernardo Silva,Bernardo Mota Veiga de Carvalho e Silva,exact_short_name,100.0,218667.0,False
+Bilal El Khannous,bilal el khannous,b khannous,,,,unmatched,,,True
+Bilel Ifa,bilel ifa,b ifa,,,,unmatched,,,True
+Borna Barišić,borna barisic,b barisic,241673.0,B. Barišić,Borna Barišić,exact_long_name,100.0,241673.0,False
+Borna Sosa,borna sosa,b sosa,243388.0,B. Sosa,Borna Sosa,exact_long_name,100.0,243388.0,False
+Boualem Khoukhi,boualem khoukhi,b khoukhi,,,,unmatched,,,True
+Boulaye Dia,boulaye dia,b dia,246242.0,B. Dia,Boulaye Dia,exact_long_name,100.0,246242.0,False
+Brandon Aguilera,brandon aguilera,b aguilera,223243.0,E. Aguilera,Víctor Emanuel Aguilera,short_name_fuzzy|player_shortlike_key,90.0,223243.0,False
+Breel Embolo,breel embolo,b embolo,222357.0,B. Embolo,Breel-Donald Embolo,exact_player_to_short_name,99.0,222357.0,False
+Brenden Aaronson,brenden aaronson,b aaronson,247361.0,B. Aaronson,Brenden Russell Aaronson,exact_player_to_short_name,99.0,247361.0,False
+Brennan Johnson,brennan johnson,b johnson,152536.0,B. Johnson,Bradley Johnson,exact_player_to_short_name,99.0,152536.0,False
+Bruno Fernandes,bruno fernandes,b fernandes,212198.0,Bruno Fernandes,Bruno Miguel Borges Fernandes,exact_short_name,100.0,212198.0,False
+Bruno Guimarães,bruno guimaraes,b guimaraes,247851.0,Bruno Guimarães,Bruno Guimarães Rodriguez Moura,exact_short_name,100.0,247851.0,False
+Bruno Petković,bruno petkovic,b petkovic,215455.0,B. Petković,Bruno Petković,exact_long_name,100.0,215455.0,False
+Bryan Mbeumo,bryan mbeumo,b mbeumo,243014.0,B. Mbeumo,Bryan Mbeumo,exact_long_name,100.0,243014.0,False
+Bryan Oviedo,bryan oviedo,b oviedo,198335.0,B. Oviedo,Bryan Josué Oviedo Jiménez,exact_player_to_short_name,99.0,198335.0,False
+Bryan Ruiz,bryan ruiz,b ruiz,261505.0,B. Ruiz,Bryan Leonel Ruiz Zerpa,exact_player_to_short_name,99.0,261505.0,False
+Bukayo Saka,bukayo saka,b saka,246669.0,B. Saka,Bukayo Saka,exact_long_name,100.0,246669.0,False
+Callum Wilson,callum wilson,c wilson,196978.0,C. Wilson,Callum Wilson,exact_long_name,100.0,196978.0,False
+Cameron Carter-Vickers,cameron carter vickers,c vickers,228174.0,C. Carter-Vickers,Cameron Carter-Vickers,exact_long_name,100.0,228174.0,False
+Cameron Devlin,cameron devlin,c devlin,246006.0,C. Devlin,Cameron Peter Devlin,exact_player_to_short_name,99.0,246006.0,False
+Carlos Gruezo,carlos gruezo,c gruezo,221860.0,C. Gruezo,Carlos Armando Gruezo Arboleda,exact_player_to_short_name,99.0,221860.0,False
+Carlos Martínez,carlos martinez,c martinez,229466.0,C. Martínez,Cris Robert Martínez Escobar,exact_player_to_short_name,99.0,229466.0,False
+Carlos Soler,carlos soler,c soler,234153.0,Carlos Soler,Carlos Soler Barragán,exact_short_name,100.0,234153.0,False
+Casemiro,casemiro,casemiro,200145.0,Casemiro,Carlos Henrique Venancio Casimiro,exact_short_name,100.0,200145.0,False
+Celso Borges,celso borges,c borges,216466.0,Wendell,Wendell Nascimento Borges,short_from_long_fuzzy|player_shortlike_key,87.5,,True
+Charles De Ketelaere,charles de ketelaere,c de ketelaere,251470.0,C. De Ketelaere,Charles De Ketelaere,exact_long_name,100.0,251470.0,False
+Charly Rodríguez,charly rodriguez,c rodriguez,235389.0,C. Rodríguez,Carlos Alberto Rodríguez Gómez,exact_player_to_short_name,99.0,235389.0,False
+Cheikhou Kouyaté,cheikhou kouyate,c kouyate,186801.0,C. Kouyaté,Cheikhou Kouyaté,exact_long_name,100.0,186801.0,False
+Cho Guesung,cho guesung,c guesung,,,,unmatched,,,True
+Cho Hyun-woo,cho hyun woo,c woo,,,,unmatched,,,True
+Cho Yumin,cho yumin,c yumin,,,,unmatched,,,True
+Chris Gunter,chris gunter,c gunter,209846.0,C. Günter,Christian Günter,exact_player_to_short_name,99.0,209846.0,False
+Chris Mepham,chris mepham,c mepham,233201.0,C. Mepham,Christopher James Mepham,exact_player_to_short_name,99.0,233201.0,False
+Christian Bassogog,christian bassogog,c bassogog,231138.0,C. Bassogog,Christian Mougang Bassogog,exact_player_to_short_name,99.0,231138.0,False
+Christian Eriksen,christian eriksen,c eriksen,190460.0,C. Eriksen,Christian Dannemann Eriksen,exact_player_to_short_name,99.0,190460.0,False
+Christian Fassnacht,christian fassnacht,c fassnacht,234913.0,C. Fassnacht,Christian Fassnacht,exact_long_name,100.0,234913.0,False
+Christian Günter,christian gunter,c gunter,209846.0,C. Günter,Christian Günter,exact_long_name,100.0,209846.0,False
+Christian Nørgaard,christian nrgaard,c nrgaard,210697.0,C. Nørgaard,Christian Thers Nørgaard,exact_player_to_short_name,99.0,210697.0,False
+Christian Pulisic,christian pulisic,c pulisic,227796.0,C. Pulisic,Christian Mate Pulisic,exact_player_to_short_name,99.0,227796.0,False
+Christopher Wooh,christopher wooh,c wooh,260658.0,C. Wooh,Christopher Maurice Wooh,exact_player_to_short_name,99.0,260658.0,False
+Cody Gakpo,cody gakpo,c gakpo,242516.0,C. Gakpo,Cody Mathès Gakpo,exact_player_to_short_name,99.0,242516.0,False
+Collins Fai,collins fai,c fai,232183.0,C. Fai,Collins Ngoran Suiru Fai,exact_player_to_short_name,99.0,232183.0,False
+Connor Roberts,connor roberts,c roberts,225147.0,C. Roberts,Connor Roberts,exact_long_name,100.0,225147.0,False
+Conor Coady,conor coady,c coady,202048.0,C. Coady,Conor Coady,exact_long_name,100.0,202048.0,False
+Conor Gallagher,conor gallagher,c gallagher,238216.0,C. Gallagher,Conor Gallagher,exact_long_name,100.0,238216.0,False
+Craig Goodwin,craig goodwin,c goodwin,209888.0,C. Goodwin,Craig Alexander Goodwin,exact_player_to_short_name,99.0,209888.0,False
+Cristian Roldan,cristian roldan,c roldan,226807.0,C. Roldan,Cristian Roldán León,exact_player_to_short_name,99.0,226807.0,False
+Cristian Romero,cristian romero,c romero,232488.0,C. Romero,Cristian Gabriel Romero,exact_player_to_short_name,99.0,232488.0,False
+Cristiano Ronaldo,cristiano ronaldo,c ronaldo,20801.0,Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,exact_short_name,100.0,20801.0,False
+Cyle Larin,cyle larin,c larin,226777.0,C. Larin,Cyle Christopher Larin,exact_player_to_short_name,99.0,226777.0,False
+César Azpilicueta,cesar azpilicueta,c azpilicueta,184432.0,Azpilicueta,César Azpilicueta Tanco,short_name_fuzzy|player_shortlike_key,91.66666666666666,184432.0,False
+César Montes,cesar montes,c montes,229980.0,C. Montes,César Jasib Montes Castro,exact_player_to_short_name,99.0,229980.0,False
+Daichi Kamada,daichi kamada,d kamada,232730.0,D. Kamada,鎌田 大地,exact_player_to_short_name,99.0,232730.0,False
+Daizen Maeda,daizen maeda,d maeda,246321.0,D. Maeda,前田 大然,exact_player_to_short_name,99.0,246321.0,False
+Daley Blind,daley blind,d blind,190815.0,D. Blind,Daley Blind,exact_long_name,100.0,190815.0,False
+Damian Szymański,damian szymanski,d szymanski,223779.0,D. Szymański,Damian Dawid Szymański,exact_player_to_short_name,99.0,223779.0,False
+Dani Alves,dani alves,d alves,218936.0,Rafa Soares,Luís Rafael Soares Alves,short_from_long_fuzzy|player_shortlike_key,85.71428571428572,,True
+Dani Carvajal,dani carvajal,d carvajal,244260.0,Dani Olmo,Daniel Olmo Carvajal,exact_player_to_short_from_long,99.0,244260.0,False
+Dani Olmo,dani olmo,d olmo,244260.0,Dani Olmo,Daniel Olmo Carvajal,exact_short_name,100.0,244260.0,False
+Daniel Afriyie Barnieh,daniel afriyie barnieh,d barnieh,,,,unmatched,,,True
+Daniel Amartey,daniel amartey,d amartey,212883.0,D. Amartey,Daniel Amartey,exact_long_name,100.0,212883.0,False
+Daniel Chacón,daniel chacon,d chacon,240286.0,J. García,Joel Raymundo García Chacón,short_from_long_fuzzy|player_shortlike_key,87.5,,True
+Daniel James,daniel james,d james,232104.0,D. James,Daniel James,exact_long_name,100.0,232104.0,False
+Daniel Kyereh,daniel kyereh,d kyereh,244112.0,D. Kyereh,Daniel-Kofi Kyereh,exact_player_to_short_name,99.0,244112.0,False
+Daniel Schmidt,daniel schmidt,d schmidt,237580.0,D. Schmidt,シュミット・ダニエル,exact_player_to_short_name,99.0,237580.0,False
+Daniel Wass,daniel wass,d wass,172522.0,D. Wass,Daniel Wass,exact_long_name,100.0,172522.0,False
+Danilo,danilo,danilo,199304.0,Danilo,Danilo Luiz da Silva,exact_short_name,100.0,199304.0,False
+Danilo Pereira,danilo pereira,d pereira,200888.0,Danilo Pereira,Danilo Luís Hélio Pereira,exact_short_name,100.0,200888.0,False
+Danlad Ibrahim,danlad ibrahim,d ibrahim,252471.0,A. Ibrahim,Abbas Ibrahim,short_name_fuzzy|player_shortlike_key,88.88888888888889,252471.0,False
+Danny Vukovic,danny vukovic,d vukovic,181481.0,D. Vukovic,Daniel Vuković,exact_player_to_short_name,99.0,181481.0,False
+Danny Ward,danny ward,d ward,207998.0,D. Ward,Danny Ward,exact_long_name,100.0,207998.0,False
+Darko Lazović,darko lazovic,d lazovic,212127.0,D. Lazović,Darko Lazović,exact_long_name,100.0,212127.0,False
+Darwin Núñez,darwin nunez,d nunez,253072.0,D. Núñez,Darwin Gabriel Núñez Ribeiro,exact_player_to_short_name,99.0,253072.0,False
+David Raum,david raum,d raum,236703.0,D. Raum,David Raum,exact_long_name,100.0,236703.0,False
+David Raya,david raya,d raya,220901.0,David Raya,David Raya Martin,exact_short_name,100.0,220901.0,False
+David Wotherspoon,david wotherspoon,d wotherspoon,193728.0,D. Wotherspoon,David Wotherspoon,exact_long_name,100.0,193728.0,False
+Davy Klaassen,davy klaassen,d klaassen,203483.0,D. Klaassen,Davy Klaassen,exact_long_name,100.0,203483.0,False
+Dayne St. Clair,dayne st clair,d clair,247228.0,D. St. Clair,Dayne St. Clair,exact_long_name,100.0,247228.0,False
+Dayot Upamecano,dayot upamecano,d upamecano,229558.0,D. Upamecano,Dayotchanculle Oswald Upamecano,exact_player_to_short_name,99.0,229558.0,False
+DeAndre Yedlin,deandre yedlin,d yedlin,212722.0,D. Yedlin,DeAndre Roselle Yedlin,exact_player_to_short_name,99.0,212722.0,False
+Declan Rice,declan rice,d rice,234378.0,D. Rice,Declan Rice,exact_long_name,100.0,234378.0,False
+Dejan Lovren,dejan lovren,d lovren,,,,unmatched,,,True
+Denis Odoi,denis odoi,d odoi,185349.0,D. Odoi,Denis Odoi,exact_long_name,100.0,185349.0,False
+Denis Zakaria,denis zakaria,d zakaria,229261.0,D. Zakaria,Denis Lemi Zakaria Lako Lado,exact_player_to_short_name,99.0,229261.0,False
+Denzel Dumfries,denzel dumfries,d dumfries,233096.0,D. Dumfries,Denzel Justus Morris Dumfries,exact_player_to_short_name,99.0,233096.0,False
+Derek Cornelius,derek cornelius,d cornelius,243009.0,D. Cornelius,Derek Cornelius,exact_long_name,100.0,243009.0,False
+Devis Epassy,devis epassy,d epassy,,,,unmatched,,,True
+Diego Godín,diego godin,d godin,182493.0,D. Godín,Diego Roberto Godín Leal,exact_player_to_short_name,99.0,182493.0,False
+Diego Palacios,diego palacios,d palacios,245065.0,D. Palacios,Juan Diego Palacios Ricardo,exact_player_to_short_name,99.0,245065.0,False
+Diogo Costa,diogo costa,d costa,234577.0,Diogo Costa,Diogo Meireles Costa,exact_short_name,100.0,234577.0,False
+Diogo Dalot,diogo dalot,d dalot,234574.0,Diogo Dalot,José Diogo Dalot Teixeira,exact_short_name,100.0,234574.0,False
+Djibril Sow,djibril sow,d sow,229752.0,D. Sow,Djibril Sow,exact_long_name,100.0,229752.0,False
+Djorkaeff Reasco,djorkaeff reasco,d reasco,254069.0,D. Reasco,Djorkaeff Neicer Reasco González,exact_player_to_short_name,99.0,254069.0,False
+Domagoj Vida,domagoj vida,d vida,199206.0,D. Vida,Domagoj Vida,exact_long_name,100.0,199206.0,False
+Dominik Livaković,dominik livakovic,d livakovic,241671.0,D. Livaković,Dominik Livaković,exact_long_name,100.0,241671.0,False
+Douglas López,douglas lopez,d lopez,227227.0,D. Álvarez,Daniel Álvarez López,exact_player_to_short_from_long,99.0,227227.0,False
+Dries Mertens,dries mertens,d mertens,175943.0,D. Mertens,Dries Mertens,exact_long_name,100.0,175943.0,False
+Dušan Tadić,dusan tadic,d tadic,199434.0,D. Tadić,Dušan Tadić,exact_long_name,100.0,199434.0,False
+Dušan Vlahović,dusan vlahovic,d vlahovic,246430.0,D. Vlahović,Dušan Vlahović,exact_long_name,100.0,246430.0,False
+Dylan Bronn,dylan bronn,d bronn,235565.0,D. Bronn,Dylan Daniel Mahmoud Bronn,exact_player_to_short_name,99.0,235565.0,False
+Dylan Levitt,dylan levitt,d levitt,243349.0,D. Levitt,Dylan James Christopher Levitt,exact_player_to_short_name,99.0,243349.0,False
+Eden Hazard,eden hazard,e hazard,183277.0,E. Hazard,Eden Hazard,exact_long_name,100.0,183277.0,False
+Ederson,ederson,ederson,210257.0,Ederson,Ederson Santana de Moraes,exact_short_name,100.0,210257.0,False
+Edimilson Fernandes,edimilson fernandes,e fernandes,215556.0,E. Fernandes,Edimilson Fernandes Ribeiro,exact_player_to_short_name,99.0,215556.0,False
+Edinson Cavani,edinson cavani,e cavani,179813.0,E. Cavani,Edinson Roberto Cavani Gómez,exact_player_to_short_name,99.0,179813.0,False
+Edouard Mendy,edouard mendy,e mendy,234642.0,É. Mendy,Édouard Mendy,exact_long_name,100.0,234642.0,False
+Edson Álvarez,edson alvarez,e alvarez,235844.0,E. Álvarez,Edson Omar Álvarez Velázquez,exact_player_to_short_name,99.0,235844.0,False
+Eduardo Camavinga,eduardo camavinga,e camavinga,248243.0,E. Camavinga,Eduardo Camavinga,exact_long_name,100.0,248243.0,False
+Ehsan Hajsafi,ehsan hajsafi,e hajsafi,194354.0,E. Haji Safi,Ehsan Haji Safi,long_name_fuzzy|player_key,92.85714285714286,194354.0,False
+Eiji Kawashima,eiji kawashima,e kawashima,180739.0,E. Kawashima,川島 永嗣,exact_player_to_short_name,99.0,180739.0,False
+Elisha Owusu,elisha owusu,e owusu,238392.0,E. Owusu,Elisha Owusu,exact_long_name,100.0,238392.0,False
+Ellyes Skhiri,ellyes skhiri,e skhiri,225126.0,E. Skhiri,Ellyes Joris Skhiri,exact_player_to_short_name,99.0,225126.0,False
+Emiliano Martínez,emiliano martinez,e martinez,202811.0,E. Martínez,Damián Emiliano Martínez,exact_player_to_short_name,99.0,202811.0,False
+Enner Valencia,enner valencia,e valencia,220295.0,E. Valencia,Enner Remberto Valencia Lastra,exact_player_to_short_name,99.0,220295.0,False
+Enzo Ebosse,enzo ebosse,e ebosse,241007.0,E. Ebosse,Enzo Ebosse,exact_long_name,100.0,241007.0,False
+Enzo Fernández,enzo fernandez,e fernandez,247090.0,E. Fernández,Enzo Jeremías Fernández,exact_player_to_short_name,99.0,247090.0,False
+Eray Cömert,eray comert,e comert,233885.0,E. Cömert,Eray Ervin Cömert,exact_player_to_short_name,99.0,233885.0,False
+Eric Dier,eric dier,e dier,202335.0,E. Dier,Eric Dier,exact_long_name,100.0,202335.0,False
+Eric García,eric garcia,e garcia,245037.0,Eric García,Eric García Martret,exact_short_name,100.0,245037.0,False
+Eric Maxim Choupo-Moting,eric maxim choupo moting,e moting,183569.0,E. Choupo-Moting,Jean-Eric Maxim Choupo-Moting,long_name_fuzzy|player_key,90.56603773584906,183569.0,False
+Erick Gutiérrez,erick gutierrez,e gutierrez,220854.0,É. Gutiérrez,Érick Gabriel Gutiérrez Galaviz,exact_player_to_short_name,99.0,220854.0,False
+Esteban Alvarado,esteban alvarado,e alvarado,224574.0,O. Pineda,Orbelín Pineda Alvarado,short_from_long_fuzzy|player_shortlike_key,90.0,224574.0,False
+Ethan Ampadu,ethan ampadu,e ampadu,235735.0,E. Ampadu,Ethan Ampadu,exact_long_name,100.0,235735.0,False
+Ethan Horvath,ethan horvath,e horvath,219736.0,E. Horvath,Ethan Shea Horvath,exact_player_to_short_name,99.0,219736.0,False
+Everton Ribeiro,everton ribeiro,e ribeiro,215556.0,E. Fernandes,Edimilson Fernandes Ribeiro,exact_player_to_short_from_long,99.0,215556.0,False
+Exequiel Palacios,exequiel palacios,e palacios,231521.0,E. Palacios,Exequiel Alejandro Palacios,exact_player_to_short_name,99.0,231521.0,False
+Fabian Frei,fabian frei,f frei,183346.0,F. Frei,Fabian Frei,exact_long_name,100.0,183346.0,False
+Fabian Rieder,fabian rieder,f rieder,259306.0,F. Rieder,Fabian Rieder,exact_long_name,100.0,259306.0,False
+Fabian Schär,fabian schar,f schar,210047.0,F. Schär,Fabian Lukas Schär,exact_player_to_short_name,99.0,210047.0,False
+Fabinho,fabinho,fabinho,209499.0,Fabinho,Fábio Henrique Tavares,exact_short_name,100.0,209499.0,False
+Facundo Pellistri,facundo pellistri,f pellistri,253283.0,F. Pellistri,Facundo Pellistri Rebollo,exact_player_to_short_name,99.0,253283.0,False
+Facundo Torres,facundo torres,f torres,256136.0,F. Torres,Facundo Daniel Torres Pérez,exact_player_to_short_name,99.0,256136.0,False
+Famara Diedhiou,famara diedhiou,f diedhiou,223283.0,F. Diédhiou,Famara Diédhiou,exact_long_name,100.0,223283.0,False
+Federico Valverde,federico valverde,f valverde,239053.0,F. Valverde,Federico Santiago Valverde Dipetta,exact_player_to_short_name,99.0,239053.0,False
+Ferjani Sassi,ferjani sassi,f sassi,,,,unmatched,,,True
+Fernando Muslera,fernando muslera,f muslera,182494.0,F. Muslera,Néstor Fernando Muslera Micol,exact_player_to_short_name,99.0,182494.0,False
+Ferrán Torres,ferran torres,f torres,241461.0,Ferran Torres,Ferran Torres García,exact_short_name,100.0,241461.0,False
+Filip Kostić,filip kostic,f kostic,208574.0,F. Kostić,Filip Kostić,exact_long_name,100.0,208574.0,False
+Filip Mladenović,filip mladenovic,f mladenovic,221969.0,F. Mladenović,Filip Mladenović,exact_long_name,100.0,221969.0,False
+Filip Đuričić,filip uricic,f uricic,193881.0,F. Đuričić,Filip Đuričić,exact_long_name,100.0,193881.0,False
+Firas Al-Buraikan,firas al buraikan,f buraikan,238545.0,F. Al Birekan,Firas Tariq Nasser Al-Buraikan,exact_player_to_short_from_long,99.0,238545.0,False
+Fodé Ballo-Touré,fode ballo toure,f toure,236723.0,F. Ballo-Touré,Fodé Ballo-Touré,exact_long_name,100.0,236723.0,False
+Formose Mendy,formose mendy,f mendy,259215.0,F. Mendy,Formose Mendy,exact_long_name,100.0,259215.0,False
+Fran Karačić,fran karacic,f karacic,243473.0,F. Karačić,Fran Karačić,exact_long_name,100.0,243473.0,False
+Francisco Calvo,francisco calvo,f calvo,213064.0,F. Calvo,Francisco Javier Calvo Quesada,exact_player_to_short_name,99.0,213064.0,False
+Franco Armani,franco armani,f armani,214584.0,F. Armani,Franco Armani,exact_long_name,100.0,214584.0,False
+Fred,fred,fred,209297.0,Fred,Frederico Rodrigues de Paula Santos,exact_short_name,100.0,209297.0,False
+Frederik Rønnow,frederik rnnow,f rnnow,201269.0,F. Rønnow,Frederik Riis Rønnow,exact_player_to_short_name,99.0,201269.0,False
+Frenkie de Jong,frenkie de jong,f de jong,228702.0,F. de Jong,Frenkie de Jong,exact_long_name,100.0,228702.0,False
+Félix Torres Caicedo,felix torres caicedo,f caicedo,175254.0,F. Caicedo,Felipe Salvador Caicedo Corozo,exact_player_to_short_name,99.0,175254.0,False
+Gabriel Jesus,gabriel jesus,g jesus,230666.0,Gabriel Jesus,Gabriel Fernando de Jesus,exact_short_name,100.0,230666.0,False
+Gaku Shibasaki,gaku shibasaki,g shibasaki,232883.0,G. Shibasaki,柴崎 岳,exact_player_to_short_name,99.0,232883.0,False
+Garang Kuol,garang kuol,g kuol,256392.0,A. Kuol,Alou Kuol,short_name_fuzzy|player_shortlike_key,83.33333333333334,,True
+Gareth Bale,gareth bale,g bale,173731.0,G. Bale,Gareth Frank Bale,exact_player_to_short_name,99.0,173731.0,False
+Gavi,gavi,gavi,264240.0,Gavi,Pablo Martín Páez Gavira,exact_short_name,100.0,264240.0,False
+Gaël Ondoua,gael ondoua,g ondoua,245017.0,G. Ondoua,Gaël Bella Ondoua,exact_player_to_short_name,99.0,245017.0,False
+Georges-Kévin N'Koudou,georges kevin nkoudou,g nkoudou,219732.0,G. Nkoudou,Georges-Kévin Nkoudou Mbida,exact_player_to_short_name,99.0,219732.0,False
+Gerardo Arteaga,gerardo arteaga,g arteaga,236537.0,G. Arteaga,Gerardo Daniel Arteaga Zamora,exact_player_to_short_name,99.0,236537.0,False
+Germán Pezzella,german pezzella,g pezzella,193601.0,G. Pezzella,Germán Alejandro Pezzella,exact_player_to_short_name,99.0,193601.0,False
+Gerson Torres,gerson torres,g torres,174754.0,G. Torres,Gabriel Arturo Torres Tejada,exact_player_to_short_name,99.0,174754.0,False
+Gerónimo Rulli,geronimo rulli,g rulli,215316.0,G. Rulli,Gerónimo Rulli,exact_long_name,100.0,215316.0,False
+Ghaylène Chaalali,ghaylene chaalali,g chaalali,,,,unmatched,,,True
+Gideon Mensah,gideon mensah,g mensah,247124.0,G. Mensah,Gideon Mensah,exact_long_name,100.0,247124.0,False
+Gio Reyna,gio reyna,g reyna,245541.0,G. Reyna,Giovanni Alejandro Reyna,exact_player_to_short_name,99.0,245541.0,False
+Giorgian De Arrascaeta,giorgian de arrascaeta,g de arrascaeta,,,,unmatched,,,True
+Gleison Bremer,gleison bremer,g bremer,239580.0,Bremer,Gleison Bremer Silva Nascimento,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Gonzalo Montiel,gonzalo montiel,g montiel,231340.0,G. Montiel,Gonzalo Ariel Montiel,exact_player_to_short_name,99.0,231340.0,False
+Gonzalo Plata,gonzalo plata,g plata,247181.0,G. Plata,Gonzalo Jordy Plata Jiménez,exact_player_to_short_name,99.0,247181.0,False
+Gonçalo Ramos,goncalo ramos,g ramos,256903.0,Gonçalo Ramos,Gonçalo Matias Ramos,exact_short_name,100.0,256903.0,False
+Granit Xhaka,granit xhaka,g xhaka,199503.0,G. Xhaka,Granit Xhaka,exact_long_name,100.0,199503.0,False
+Gregor Kobel,gregor kobel,g kobel,235073.0,G. Kobel,Gregor Kobel,exact_long_name,100.0,235073.0,False
+Grzegorz Krychowiak,grzegorz krychowiak,g krychowiak,197242.0,G. Krychowiak,Grzegorz Krychowiak,exact_long_name,100.0,197242.0,False
+Guido Rodríguez,guido rodriguez,g rodriguez,225659.0,G. Rodríguez,Guido Rodríguez,exact_long_name,100.0,225659.0,False
+Guillermo Ochoa,guillermo ochoa,g ochoa,140233.0,G. Ochoa,Francisco Guillermo Ochoa Magaña,exact_player_to_short_name,99.0,140233.0,False
+Guillermo Varela,guillermo varela,g varela,178614.0,Varela,Fernando Lopes dos Santos Varela,short_from_long_fuzzy|player_shortlike_key,87.5,,True
+Haji Wright,haji wright,h wright,238743.0,H. Wright,Haji Wright,exact_long_name,100.0,238743.0,False
+Hakim Ziyech,hakim ziyech,h ziyech,208670.0,H. Ziyech,Hakim Ziyech,exact_long_name,100.0,208670.0,False
+Hannibal Mejbri,hannibal mejbri,h mejbri,258171.0,H. Mejbri,Hannibal Mejbri,exact_long_name,100.0,258171.0,False
+Hans Vanaken,hans vanaken,h vanaken,200155.0,H. Vanaken,Hans Vanaken,exact_long_name,100.0,200155.0,False
+Haris Seferović,haris seferovic,h seferovic,193408.0,H. Seferović,Haris Seferović,exact_long_name,100.0,193408.0,False
+Harry Kane,harry kane,h kane,202126.0,H. Kane,Harry Kane,exact_long_name,100.0,202126.0,False
+Harry Maguire,harry maguire,h maguire,203263.0,H. Maguire,Harry Maguire,exact_long_name,100.0,203263.0,False
+Harry Souttar,harry souttar,h souttar,229901.0,H. Souttar,Harry James Souttar,exact_player_to_short_name,99.0,229901.0,False
+Harry Wilson,harry wilson,h wilson,220710.0,H. Wilson,Harry Wilson,exact_long_name,100.0,220710.0,False
+Hassan Al Tambakti,hassan al tambakti,h tambakti,245751.0,H. Tombakti,Hassan Mohammed Al-Tambakti,exact_player_to_short_from_long,99.0,245751.0,False
+Hassan Al-Haydos,hassan al haydos,h haydos,263974.0,Y. Al Hassan,Yacoub Al Hassan,short_name_fuzzy|player_key,81.4814814814815,,True
+Hattan Bahebri,hattan bahebri,h bahebri,208974.0,H. Bahebri,Hattan Sultan Bahebri,exact_player_to_short_name,99.0,208974.0,False
+Henry Martín,henry martin,h martin,224151.0,H. Martín,Henry Josué Martín Mex,exact_player_to_short_name,99.0,224151.0,False
+Hernán Galíndez,hernan galindez,h galindez,,,,unmatched,,,True
+Hidemasa Morita,hidemasa morita,h morita,242087.0,H. Morita,守田 英正,exact_player_to_short_name,99.0,242087.0,False
+Hiroki Ito,hiroki ito,h ito,234205.0,H. Ito,伊藤 宏樹,exact_player_to_short_name,99.0,234205.0,False
+Hiroki Sakai,hiroki sakai,h sakai,208520.0,H. Sakai,酒井 宏樹,exact_player_to_short_name,99.0,208520.0,False
+Hirving Lozano,hirving lozano,h lozano,221992.0,H. Lozano,Hirving Rodrigo Lozano Bahena,exact_player_to_short_name,99.0,221992.0,False
+Homam Ahmed,homam ahmed,h ahmed,264258.0,S. Ahmed,Saeed Ahmed,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Hong Chul,hong chul,h chul,199236.0,Hong Chul,홍철 洪喆,exact_short_name,100.0,199236.0,False
+Hossein Hosseini,hossein hosseini,h hosseini,243549.0,M. Hosseini,Seyed Majid Hosseini,short_name_fuzzy|player_shortlike_key,80.0,,True
+Hossein Kanaanizadegan,hossein kanaanizadegan,h kanaanizadegan,,,,unmatched,,,True
+Hugo Guillamón,hugo guillamon,h guillamon,246352.0,Hugo Guillamón,Hugo Guillamón Sammartín,exact_short_name,100.0,246352.0,False
+Hugo Lloris,hugo lloris,h lloris,167948.0,H. Lloris,Hugo Lloris,exact_long_name,100.0,167948.0,False
+Hwang Hee-chan,hwang hee chan,h chan,226380.0,Hwang Hee Chan,황희찬 黄喜灿,exact_short_name,100.0,226380.0,False
+Hwang In-beom,hwang in beom,h beom,,,,unmatched,,,True
+Hwang Ui-jo,hwang ui jo,h jo,212260.0,Hwang Ui Jo,황의조 Ui Jo Hwang,exact_short_name,100.0,212260.0,False
+Héctor Herrera,hector herrera,h herrera,156519.0,H. Herrera,Héctor Miguel Herrera López,exact_player_to_short_name,99.0,156519.0,False
+Héctor Moreno,hector moreno,h moreno,173432.0,H. Moreno,Héctor Alfredo Moreno Herrera,exact_player_to_short_name,99.0,173432.0,False
+Ibrahima Konaté,ibrahima konate,i konate,237678.0,I. Konaté,Ibrahima Konaté,exact_long_name,100.0,237678.0,False
+Idrissa Gana Gueye,idrissa gana gueye,i gueye,193474.0,I. Gueye,Idrissa Gana Gueye,exact_long_name,100.0,193474.0,False
+Ike Ugbo,ike ugbo,i ugbo,233045.0,I. Ugbo,Iké Dominique Ugbo,exact_player_to_short_name,99.0,233045.0,False
+Ilias Chair,ilias chair,i chair,238490.0,I. Chair,Ilias Chair,exact_long_name,100.0,238490.0,False
+Iliman Ndiaye,iliman ndiaye,i ndiaye,252523.0,I. Ndiaye,Ibrahima Ndiaye,exact_player_to_short_name,99.0,252523.0,False
+Ismail Jakobs,ismail jakobs,i jakobs,252293.0,I. Jakobs,Ismail Joshua Jakobs,exact_player_to_short_name,99.0,252293.0,False
+Ismail Mohamad,ismail mohamad,i mohamad,,,,unmatched,,,True
+Ismaila Sarr,ismaila sarr,i sarr,235353.0,I. Sarr,Ismaïla Sarr,exact_long_name,100.0,235353.0,False
+Ismaël Koné,ismael kone,i kone,264207.0,I. Koné,Ismaël Koné,exact_long_name,100.0,264207.0,False
+Issam Jebali,issam jebali,i jebali,235236.0,I. Jebali,Issam Jebali,exact_long_name,100.0,235236.0,False
+Ivan Ilić,ivan ilic,i ilic,258683.0,I. Ilić,Ivan Ilić,exact_long_name,100.0,258683.0,False
+Ivan Perišić,ivan perisic,i perisic,181458.0,I. Perišić,Ivan Perišić,exact_long_name,100.0,181458.0,False
+Ivica Ivušić,ivica ivusic,i ivusic,,,,unmatched,,,True
+Ivo Grbić,ivo grbic,i grbic,258390.0,I. Grbić,Ivo Grbić,exact_long_name,100.0,258390.0,False
+Iñaki Williams,inaki williams,i williams,216201.0,Iñaki Williams,Iñaki Williams Arthuer,exact_short_name,100.0,216201.0,False
+Jack Grealish,jack grealish,j grealish,206517.0,J. Grealish,Jack Grealish,exact_long_name,100.0,206517.0,False
+Jackson Irvine,jackson irvine,j irvine,211378.0,J. Irvine,Jackson Alexander Irvine,exact_player_to_short_name,99.0,211378.0,False
+Jackson Porozo,jackson porozo,j porozo,260740.0,J. Porozo,Jackson Gabriel Porozo Vernaza,exact_player_to_short_name,99.0,260740.0,False
+Jakub Kamiński,jakub kaminski,j kaminski,252495.0,J. Kamiński,Jakub Kamiński,exact_long_name,100.0,252495.0,False
+Jakub Kiwior,jakub kiwior,j kiwior,,,,unmatched,,,True
+Jamal Musiala,jamal musiala,j musiala,256790.0,J. Musiala,Jamal Musiala,exact_long_name,100.0,256790.0,False
+James Maddison,james maddison,j maddison,220697.0,J. Maddison,James Maddison,exact_long_name,100.0,220697.0,False
+James Pantemis,james pantemis,j pantemis,238919.0,J. Pantemis,James Pantemis,exact_long_name,100.0,238919.0,False
+Jamie Maclaren,jamie maclaren,j maclaren,212232.0,J. Maclaren,Jamie Maclaren,exact_long_name,100.0,212232.0,False
+Jan Bednarek,jan bednarek,j bednarek,220570.0,J. Bednarek,Jan Bednarek,exact_long_name,100.0,220570.0,False
+Jan Vertonghen,jan vertonghen,j vertonghen,172871.0,J. Vertonghen,Jan Vertonghen,exact_long_name,100.0,172871.0,False
+Jason Cummings,jason cummings,j cummings,219948.0,J. Cummings,Jason Steven Cummings,exact_player_to_short_name,99.0,219948.0,False
+Jassem Gaber,jassem gaber,j gaber,,,,unmatched,,,True
+Jawad El Yamiq,jawad el yamiq,j yamiq,241775.0,J. El Yamiq,Jawad El Yamiq,exact_long_name,100.0,241775.0,False
+Jean-Charles Castelletto,jean charles castelletto,j castelletto,213868.0,J. Castelletto,Jean-Charles Castelletto,exact_long_name,100.0,213868.0,False
+Jean-Pierre Nsame,jean pierre nsame,j nsame,209973.0,J. Nsame,Jean-Pierre Nsame,exact_long_name,100.0,209973.0,False
+Jens Stryger Larsen,jens stryger larsen,j larsen,193133.0,J. Larsen,Jens Stryger Larsen,exact_long_name,100.0,193133.0,False
+Jeong Woo-yeong,jeong woo yeong,j yeong,239138.0,Jeong Woo Yeong,정우영 Woo Yeong Jeong,exact_short_name,100.0,239138.0,False
+Jeremie Frimpong,jeremie frimpong,j frimpong,253149.0,J. Frimpong,Jeremie Agyekum Frimpong,exact_player_to_short_name,99.0,253149.0,False
+Jeremy Doku,jeremy doku,j doku,246420.0,J. Doku,Jérémy Doku,exact_long_name,100.0,246420.0,False
+Jeremy Sarmiento,jeremy sarmiento,j sarmiento,263522.0,J. Sarmiento,Jeremy Sarmiento,exact_long_name,100.0,263522.0,False
+Jerome Ngom Mbekeli,jerome ngom mbekeli,j mbekeli,,,,unmatched,,,True
+Jesper Lindstrøm,jesper lindstrm,j lindstrm,245741.0,J. Lindstrøm,Jesper Grænge Lindstrøm,exact_player_to_short_name,99.0,245741.0,False
+Jesús Ferreira,jesus ferreira,j ferreira,241487.0,J. Ferreira,Jesus Ferreira,exact_long_name,100.0,241487.0,False
+Jesús Gallardo,jesus gallardo,j gallardo,226045.0,J. Gallardo,Jesús Daniel Gallardo Vasconcelos,exact_player_to_short_name,99.0,226045.0,False
+Jewison Bennette,jewison bennette,j bennette,,,,unmatched,,,True
+Jhegson Méndez,jhegson mendez,j mendez,241927.0,J. Méndez,Juan Ignacio Méndez,exact_player_to_short_name,99.0,241927.0,False
+Joachim Andersen,joachim andersen,j andersen,224221.0,J. Andersen,Joachim Christian Andersen,exact_player_to_short_name,99.0,224221.0,False
+Joakim Mæhle,joakim mhle,j mhle,234678.0,J. Mæhle,Joakim Mæhle Pedersen,exact_player_to_short_name,99.0,234678.0,False
+Joe Allen,joe allen,j allen,184716.0,J. Allen,Joseph Michael Allen,exact_player_to_short_name,99.0,184716.0,False
+Joe Morrell,joe morrell,j morrell,220677.0,J. Morrell,Joseff John Morrell,exact_player_to_short_name,99.0,220677.0,False
+Joe Rodon,joe rodon,j rodon,229266.0,J. Rodon,Joe Rodon,exact_long_name,100.0,229266.0,False
+Joe Scally,joe scally,j scally,243133.0,J. Scally,Joseph Scally,exact_player_to_short_name,99.0,243133.0,False
+Joel Campbell,joel campbell,j campbell,204713.0,J. Campbell,Joel Nathaniel Campbell Samuels,exact_player_to_short_name,99.0,204713.0,False
+Joel King,joel king,j king,185422.0,J. King,Joshua Christian Kojo King,exact_player_to_short_name,99.0,185422.0,False
+Joel Waterman,joel waterman,j waterman,255956.0,J. Waterman,Joel Waterman,exact_long_name,100.0,255956.0,False
+Johan Venegas,johan venegas,j venegas,235536.0,F. Venegas,Francisco Eduardo Venegas Moreno,short_name_fuzzy|player_shortlike_key,88.88888888888889,235536.0,False
+Johan Vásquez,johan vasquez,j vasquez,244349.0,J. Vásquez,Johan Felipe Vásquez Ibarra,exact_player_to_short_name,99.0,244349.0,False
+John Stones,john stones,j stones,203574.0,J. Stones,John Stones,exact_long_name,100.0,203574.0,False
+Jonas Hofmann,jonas hofmann,j hofmann,210324.0,J. Hofmann,Jonas Hofmann,exact_long_name,100.0,210324.0,False
+Jonas Omlin,jonas omlin,j omlin,223550.0,J. Omlin,Jonas Omlin,exact_long_name,100.0,223550.0,False
+Jonas Wind,jonas wind,j wind,241522.0,J. Wind,Jonas Older Wind,exact_player_to_short_name,99.0,241522.0,False
+Jonathan David,jonathan david,j david,243630.0,J. David,Jonathan Christian David,exact_player_to_short_name,99.0,243630.0,False
+Jonathan Osorio,jonathan osorio,j osorio,213439.0,J. Osorio,Jonathan Osorio,exact_long_name,100.0,213439.0,False
+Jonny Williams,jonny williams,j williams,224265.0,J. Williams,Joe Williams,exact_player_to_short_name,99.0,224265.0,False
+Jordan Ayew,jordan ayew,j ayew,197756.0,J. Ayew,Jordan Pierre Ayew,exact_player_to_short_name,99.0,197756.0,False
+Jordan Henderson,jordan henderson,j henderson,183711.0,J. Henderson,Jordan Henderson,exact_long_name,100.0,183711.0,False
+Jordan Morris,jordan morris,j morris,226035.0,J. Morris,Jordan Morris,exact_long_name,100.0,226035.0,False
+Jordan Pickford,jordan pickford,j pickford,204935.0,J. Pickford,Jordan Pickford,exact_long_name,100.0,204935.0,False
+Jordan Veretout,jordan veretout,j veretout,201519.0,J. Veretout,Jordan Veretout,exact_long_name,100.0,201519.0,False
+Jordi Alba,jordi alba,j alba,189332.0,Jordi Alba,Jordi Alba Ramos,exact_short_name,100.0,189332.0,False
+Jorge Eduardo Sánchez,jorge eduardo sanchez,j sanchez,233493.0,J. Sánchez,Jorge Eduardo Sánchez Ramos,exact_player_to_short_name,99.0,233493.0,False
+Joseph Aidoo,joseph aidoo,j aidoo,230021.0,J. Aidoo,Joseph Aidoo,exact_long_name,100.0,230021.0,False
+Josh Sargent,josh sargent,j sargent,242075.0,J. Sargent,Joshua Thomas Sargent,exact_player_to_short_name,99.0,242075.0,False
+Joshua Kimmich,joshua kimmich,j kimmich,212622.0,J. Kimmich,Joshua Walter Kimmich,exact_player_to_short_name,99.0,212622.0,False
+Josip Juranović,josip juranovic,j juranovic,257771.0,J. Juranović,Josip Juranović,exact_long_name,100.0,257771.0,False
+Josip Stanišić,josip stanisic,j stanisic,250955.0,J. Stanišić,Josip Stanišić,exact_long_name,100.0,250955.0,False
+Josip Šutalo,josip sutalo,j sutalo,256325.0,J. Šutalo,Josip Šutalo,exact_long_name,100.0,256325.0,False
+José Cifuentes,jose cifuentes,j cifuentes,255137.0,J. Cifuentes,José Adoni Cifuentes Charcopa,exact_player_to_short_name,99.0,255137.0,False
+José Luis Rodríguez Bebanz,jose luis rodriguez bebanz,j bebanz,264178.0,Joselu Guerra,José Luis Guerra Rodríguez,long_name_fuzzy|player_key,84.61538461538461,,True
+José María Giménez,jose maria gimenez,j gimenez,216460.0,J. Giménez,José María Giménez de Vargas,exact_player_to_short_name,99.0,216460.0,False
+José Sá,jose sa,j sa,212442.0,José Sá,José Pedro Malheiro de Sá,exact_short_name,100.0,212442.0,False
+João Cancelo,joao cancelo,j cancelo,210514.0,João Cancelo,João Pedro Cavaco Cancelo,exact_short_name,100.0,210514.0,False
+João Félix,joao felix,j felix,242444.0,João Félix,João Félix Sequeira,exact_short_name,100.0,242444.0,False
+João Mário,joao mario,j mario,212814.0,João Mário,João Mário Naval da Costa Eduardo,exact_short_name,100.0,212814.0,False
+João Palhinha,joao palhinha,j palhinha,229391.0,Palhinha,João Maria Lobo Alves Palhinha Gonçalves,short_name_fuzzy|player_shortlike_key,88.88888888888889,229391.0,False
+Joško Gvardiol,josko gvardiol,j gvardiol,251517.0,J. Gvardiol,Joško Gvardiol,exact_long_name,100.0,251517.0,False
+Juan Foyth,juan foyth,j foyth,237221.0,J. Foyth,Juan Marcos Foyth,exact_player_to_short_name,99.0,237221.0,False
+Juan Pablo Vargas,juan pablo vargas,j vargas,226266.0,J. Vargas,Jeisson Andrés Vargas Salazar,exact_player_to_short_name,99.0,226266.0,False
+Jude Bellingham,jude bellingham,j bellingham,252371.0,J. Bellingham,Jude Victor William Bellingham,exact_player_to_short_name,99.0,252371.0,False
+Jules Koundé,jules kounde,j kounde,241486.0,J. Koundé,Jules Koundé,exact_long_name,100.0,241486.0,False
+Julian Brandt,julian brandt,j brandt,212194.0,J. Brandt,Julian Brandt,exact_long_name,100.0,212194.0,False
+Julián Álvarez,julian alvarez,j alvarez,246191.0,J. Álvarez,Julián Álvarez,exact_long_name,100.0,246191.0,False
+Jung Woo-young,jung woo young,j young,163616.0,J. Young,Jamie Young,exact_player_to_short_name,99.0,163616.0,False
+Junior Hoilett,hoilett,hoilett,189462.0,J. Hoilett,David Junior Hoilett,short_name_fuzzy|player_key,87.5,,True
+Junya Ito,junya ito,j ito,232905.0,J. Ito,伊东 纯也,exact_player_to_short_name,99.0,232905.0,False
+Jurriën Timber,jurrien timber,j timber,251805.0,J. Timber,Jurriën David Norman Timber,exact_player_to_short_name,99.0,251805.0,False
+Justin Bijlow,justin bijlow,j bijlow,232229.0,J. Bijlow,Justin Bijlow,exact_long_name,100.0,232229.0,False
+Kai Havertz,kai havertz,k havertz,235790.0,K. Havertz,Kai Lukas Havertz,exact_player_to_short_name,99.0,235790.0,False
+Kalidou Koulibaly,kalidou koulibaly,k koulibaly,201024.0,K. Koulibaly,Kalidou Koulibaly,exact_long_name,100.0,201024.0,False
+Kalvin Phillips,kalvin phillips,k phillips,224081.0,K. Phillips,Kalvin Phillips,exact_long_name,100.0,224081.0,False
+Kamal Miller,kamal miller,k miller,247648.0,K. Miller,Kamal Anthony Miller,exact_player_to_short_name,99.0,247648.0,False
+Kamal Sowah,kamal sowah,k sowah,244853.0,K. Sowah,Kamal Sowah,exact_long_name,100.0,244853.0,False
+Kamaldeen Sulemana,kamaldeen sulemana,k sulemana,256035.0,K. Sulemana,Kamaldeen Sulemana,exact_long_name,100.0,256035.0,False
+Kamil Glik,kamil glik,k glik,190547.0,K. Glik,Kamil Jacek Glik,exact_player_to_short_name,99.0,190547.0,False
+Kamil Grabara,kamil grabara,k grabara,228383.0,K. Grabara,Kamil Mieczysław Grabara,exact_player_to_short_name,99.0,228383.0,False
+Kamil Grosicki,kamil grosicki,k grosicki,177922.0,K. Grosicki,Kamil Grosicki,exact_long_name,100.0,177922.0,False
+Kaoru Mitoma,kaoru mitoma,k mitoma,255565.0,K. Mitoma,三笘 薫,exact_player_to_short_name,99.0,255565.0,False
+Karim Adeyemi,karim adeyemi,k adeyemi,251852.0,K. Adeyemi,Karim-David Adeyemi,exact_player_to_short_name,99.0,251852.0,False
+Karim Ansarifard,karim ansarifard,k ansarifard,197136.0,K. Ansarifard,Karim Ansarifard,exact_long_name,100.0,197136.0,False
+Karim Boudiaf,karim boudiaf,k boudiaf,261301.0,M. Boudiaf,Mohammed Boudiaf,short_name_fuzzy|player_shortlike_key,88.88888888888889,261301.0,False
+Karl Toko Ekambi,karl toko ekambi,k ekambi,224069.0,K. Toko Ekambi,Karl Brillant Toko Ekambi,exact_player_to_short_from_long,99.0,224069.0,False
+Karol Świderski,karol swiderski,k swiderski,224301.0,K. Świderski,Karol Świderski,exact_long_name,100.0,224301.0,False
+Kasper Dolberg,kasper dolberg,k dolberg,228687.0,K. Dolberg,Kasper Dolberg Rasmussen,exact_player_to_short_name,99.0,228687.0,False
+Kasper Schmeichel,kasper schmeichel,k schmeichel,163587.0,K. Schmeichel,Kasper Peter Schmeichel,exact_player_to_short_name,99.0,163587.0,False
+Keanu Baccus,keanu baccus,k baccus,237005.0,K. Baccus,Keanu Baccus,exact_long_name,100.0,237005.0,False
+Kellyn Acosta,kellyn acosta,k acosta,213209.0,K. Acosta,Kellyn Kai Perry-Acosta,exact_player_to_short_name,99.0,213209.0,False
+Kendall Waston,kendall waston,k waston,,,,unmatched,,,True
+Kenneth Taylor,kenneth taylor,k taylor,255009.0,K. Taylor,Kenneth Ina Dorothea Taylor,exact_player_to_short_name,99.0,255009.0,False
+Kevin De Bruyne,kevin de bruyne,k de bruyne,192985.0,K. De Bruyne,Kevin De Bruyne,exact_long_name,100.0,192985.0,False
+Kevin Rodríguez,kevin rodriguez,k rodriguez,209289.0,Kévin Rodrigues,Kévin Manuel Rodrigues,short_name_fuzzy|player_key,93.33333333333333,209289.0,False
+Kevin Trapp,kevin trapp,k trapp,188943.0,K. Trapp,Kevin Trapp,exact_long_name,100.0,188943.0,False
+Kevin Álvarez,kevin alvarez,k alvarez,253008.0,K. Álvarez,Kevin Nahin Álvarez Campos,exact_player_to_short_name,99.0,253008.0,False
+Keylor Navas,keylor navas,k navas,193041.0,K. Navas,Keylor Navas Gamboa,exact_player_to_short_name,99.0,193041.0,False
+Keysher Fuller,keysher fuller,k fuller,,,,unmatched,,,True
+Khalid Muneer,khalid muneer,k muneer,,,,unmatched,,,True
+Kieffer Moore,kieffer moore,k moore,216627.0,K. Moore,Kieffer Roberto Francisco Moore,exact_player_to_short_name,99.0,216627.0,False
+Kieran Trippier,kieran trippier,k trippier,186345.0,K. Trippier,Kieran Trippier,exact_long_name,100.0,186345.0,False
+Kim Jin-su,kim jin su,k su,213317.0,Kim Jin Su,킴진수 金珍洙,exact_short_name,100.0,213317.0,False
+Kim Min-jae,kim min jae,k jae,237086.0,Kim Min Jae,김민재 金敏在,exact_short_name,100.0,237086.0,False
+Kim Moonhwan,kim moonhwan,k moonhwan,,,,unmatched,,,True
+Kim Seung-gyu,kim seung gyu,k gyu,191655.0,Kim Seung Gyu,김승규 金承奎,exact_short_name,100.0,191655.0,False
+Kim Tae-hwan,kim tae hwan,k hwan,199231.0,Kim Tae Hwan,김태환 金泰万,exact_short_name,100.0,199231.0,False
+Kim Young-gwon,kim young gwon,k gwon,201528.0,Kim Young Gwon,김영권 金英权,exact_short_name,100.0,201528.0,False
+Kingsley Coman,kingsley coman,k coman,213345.0,K. Coman,Kingsley Junior Coman,exact_long_name,100.0,213345.0,False
+Ko Itakura,ko itakura,k itakura,233152.0,K. Itakura,板仓 晃,exact_player_to_short_name,99.0,233152.0,False
+Koen Casteels,koen casteels,k casteels,192984.0,K. Casteels,Koen Casteels,exact_long_name,100.0,192984.0,False
+Koke,koke,koke,193747.0,Koke,Jorge Resurrección Merodio,exact_short_name,100.0,193747.0,False
+Kristijan Jakić,kristijan jakic,k jakic,257889.0,K. Jakić,Kristijan Jakić,exact_long_name,100.0,257889.0,False
+Krystian Bielik,krystian bielik,k bielik,224763.0,K. Bielik,Krystian Bielik,exact_long_name,100.0,224763.0,False
+Krzysztof Piątek,krzysztof piatek,k piatek,223113.0,K. Piątek,Krzysztof Piątek,exact_long_name,100.0,223113.0,False
+Krépin Diatta,krepin diatta,k diatta,238227.0,K. Diatta,Krépin Diatta,exact_long_name,100.0,238227.0,False
+Kudus Mohammed,kudus mohammed,k mohammed,245155.0,M. Kudus,Mohammed Kudus,long_name_fuzzy|player_key,100.0,245155.0,False
+Kwon Chang-hoon,kwon chang hoon,k hoon,211927.0,Kwon Chang Hoon,권창훈 权昶勋,exact_short_name,100.0,211927.0,False
+Kwon Kyung-won,kwon kyung won,k won,212778.0,Kwon Kyung Won,권경원 权敬源,exact_short_name,100.0,212778.0,False
+Kye Rowles,kye rowles,k rowles,233931.0,K. Rowles,Kye Francis Rowles,exact_player_to_short_name,99.0,233931.0,False
+Kyle Walker,kyle walker,k walker,188377.0,K. Walker,Kyle Walker,exact_long_name,100.0,188377.0,False
+Kylian Mbappé,kylian mbappe,k mbappe,231747.0,K. Mbappé,Kylian Mbappé Lottin,exact_player_to_short_name,99.0,231747.0,False
+Lautaro Martínez,lautaro martinez,l martinez,231478.0,L. Martínez,Lautaro Javier Martínez,exact_player_to_short_name,99.0,231478.0,False
+Lawrence Ati-Zigi,lawrence ati zigi,l zigi,229956.0,L. Zigi,Lawrence Ati Zigi,exact_long_name,100.0,229956.0,False
+Leander Dendoncker,leander dendoncker,l dendoncker,212501.0,L. Dendoncker,Leander Dendoncker,exact_long_name,100.0,212501.0,False
+Leandro Paredes,leandro paredes,l paredes,207439.0,L. Paredes,Leandro Daniel Paredes,exact_player_to_short_name,99.0,207439.0,False
+Leandro Trossard,leandro trossard,l trossard,207421.0,L. Trossard,Leandro Trossard,exact_long_name,100.0,207421.0,False
+Lee Jae-sung,lee jae sung,l sung,221671.0,Lee Jae Sung,이재성 李在成,exact_short_name,100.0,221671.0,False
+Lee Kangin,lee kangin,l kangin,243780.0,Kangin Lee,이강인 Kang-In Lee,short_name_fuzzy|player_key,100.0,243780.0,False
+Leon Goretzka,leon goretzka,l goretzka,209658.0,L. Goretzka,Leon Christoph Goretzka,exact_player_to_short_name,99.0,209658.0,False
+Leroy Sané,leroy sane,l sane,222492.0,L. Sané,Leroy Aziz Sané,exact_player_to_short_name,99.0,222492.0,False
+Liam Fraser,liam fraser,l fraser,242643.0,L. Fraser,Liam Fraser,exact_long_name,100.0,242643.0,False
+Liam Millar,liam millar,l millar,240925.0,L. Millar,Liam Alan Millar,exact_player_to_short_name,99.0,240925.0,False
+Lionel Messi,lionel messi,l messi,158023.0,L. Messi,Lionel Andrés Messi Cuccittini,exact_player_to_short_name,99.0,158023.0,False
+Lisandro Martínez,lisandro martinez,l martinez,239301.0,L. Martínez,Lisandro Martínez,exact_long_name,100.0,239301.0,False
+Lovro Majer,lovro majer,l majer,244261.0,L. Majer,Lovro Majer,exact_long_name,100.0,244261.0,False
+Loïs Openda,lois openda,l openda,243580.0,L. Openda,Ikoma Loïs Openda,exact_player_to_short_name,99.0,243580.0,False
+Luca de la Torre,luca de la torre,l la torre,229379.0,L. de la Torre,Luca Daniel de la Torre,exact_player_to_short_from_long,99.0,229379.0,False
+Lucas Cavallini,lucas cavallini,l cavallini,213095.0,L. Cavallini,Lucas Daniel Cavallini,exact_player_to_short_name,99.0,213095.0,False
+Lucas Hernández,lucas hernandez,l hernandez,220814.0,L. Hernández,Lucas François Bernard Hernández Pi,exact_player_to_short_name,99.0,220814.0,False
+Lucas Paquetá,lucas paqueta,l paqueta,233927.0,Lucas Paquetá,Lucas Tolentino Coelho de Lima,exact_short_name,100.0,233927.0,False
+Lucas Torreira,lucas torreira,l torreira,223959.0,L. Torreira,Lucas Torreira Di Pascua,exact_player_to_short_name,99.0,223959.0,False
+Luis Chávez,luis chavez,l chavez,222382.0,L. Chávez,Luis Gerardo Chávez Magallón,exact_player_to_short_name,99.0,222382.0,False
+Luis Romo,luis romo,l romo,243015.0,L. Romo,Luis Francisco Romo Barrón,exact_player_to_short_name,99.0,243015.0,False
+Luis Suárez,luis suarez,l suarez,176580.0,L. Suárez,Luis Alberto Suárez Díaz,exact_player_to_short_name,99.0,176580.0,False
+Luka Jović,luka jovic,l jovic,232432.0,L. Jović,Luka Jović,exact_long_name,100.0,232432.0,False
+Luka Modrić,luka modric,l modric,177003.0,L. Modrić,Luka Modrić,exact_long_name,100.0,177003.0,False
+Luka Sučić,luka sucic,l sucic,258775.0,L. Sučić,Luka Sučić,exact_long_name,100.0,258775.0,False
+Lukas Klostermann,lukas klostermann,l klostermann,222331.0,L. Klostermann,Lukas Manuel Klostermann,exact_player_to_short_name,99.0,222331.0,False
+Luke Shaw,luke shaw,l shaw,205988.0,L. Shaw,Luke Shaw,exact_long_name,100.0,205988.0,False
+Luuk de Jong,luuk de jong,l de jong,189805.0,L. de Jong,Luuk de Jong,exact_long_name,100.0,189805.0,False
+Majid Hosseini,majid hosseini,m hosseini,243549.0,M. Hosseini,Seyed Majid Hosseini,exact_player_to_short_name,99.0,243549.0,False
+Mamadou Loum,mamadou loum,m loum,245021.0,M. Loum,Mamadou Loum N'Diaye,exact_player_to_short_name,99.0,245021.0,False
+Manaf Nurudeen,manaf nurudeen,m nurudeen,239076.0,A. Nurudeen,Abdul Manaf Nurudeen,short_name_fuzzy|player_shortlike_key,90.0,239076.0,False
+Manuel Akanji,manuel akanji,m akanji,229237.0,M. Akanji,Manuel Obafemi Akanji,exact_player_to_short_name,99.0,229237.0,False
+Manuel Neuer,manuel neuer,m neuer,167495.0,M. Neuer,Manuel Peter Neuer,exact_player_to_short_name,99.0,167495.0,False
+Manuel Ugarte Ribeiro,manuel ugarte ribeiro,m ribeiro,253306.0,M. Ugarte,Manuel Ugarte Ribeiro,exact_long_name,100.0,253306.0,False
+Marc-André ter Stegen,marc andre ter stegen,m ter stegen,192448.0,M. ter Stegen,Marc-André ter Stegen,exact_long_name,100.0,192448.0,False
+Marcelo Brozović,marcelo brozovic,m brozovic,216352.0,M. Brozović,Marcelo Brozović,exact_long_name,100.0,216352.0,False
+Marco Asensio,marco asensio,m asensio,220834.0,Marco Asensio,Marco Asensio Willemsen,exact_short_name,100.0,220834.0,False
+Marco Tilio,marco tilio,m tilio,246009.0,M. Tilio,Marco Tilio,exact_long_name,100.0,246009.0,False
+Marcos Acuña,marcos acuna,m acuna,224334.0,M. Acuña,Marcos Javier Acuña,exact_player_to_short_name,99.0,224334.0,False
+Marcos Llorente,marcos llorente,m llorente,226161.0,Marcos Llorente,Marcos Llorente Moreno,exact_short_name,100.0,226161.0,False
+Marcus Rashford,marcus rashford,m rashford,231677.0,M. Rashford,Marcus Rashford,exact_long_name,100.0,231677.0,False
+Marcus Thuram,marcus thuram,m thuram,228093.0,M. Thuram,Marcus Lilian Thuram-Ulien,exact_player_to_short_name,99.0,228093.0,False
+Mario Götze,mario gotze,m gotze,192318.0,M. Götze,Mario Götze,exact_long_name,100.0,192318.0,False
+Mario Pašalić,mario pasalic,m pasalic,223273.0,M. Pašalić,Mario Pašalić,exact_long_name,100.0,223273.0,False
+Mark Harris,mark harris,m harris,237833.0,M. Harris,Mark Thomas Harris,exact_player_to_short_name,99.0,237833.0,False
+Mark-Anthony Kaye,mark anthony kaye,m kaye,238922.0,M. Kaye,Mark-Anthony Kaye,exact_long_name,100.0,238922.0,False
+Marko Dmitrović,marko dmitrovic,m dmitrovic,227290.0,M. Dmitrović,Marko Dmitrović,exact_long_name,100.0,227290.0,False
+Marko Grujić,marko grujic,m grujic,232099.0,M. Grujić,Marko Grujić,exact_long_name,100.0,232099.0,False
+Marko Livaja,marko livaja,m livaja,205855.0,M. Livaja,Marko Livaja,exact_long_name,100.0,205855.0,False
+Marou Souaibou,marou souaibou,m souaibou,,,,unmatched,,,True
+Marquinhos,marquinhos,marquinhos,207865.0,Marquinhos,Marcos Aoás Corrêa,exact_short_name,100.0,207865.0,False
+Marten de Roon,marten de roon,m de roon,208461.0,M. de Roon,Marten Elco de Roon,exact_player_to_short_name,99.0,208461.0,False
+Martin Braithwaite,martin braithwaite,m braithwaite,193290.0,M. Braithwaite,Martin Braithwaite Christensen,exact_player_to_short_name,99.0,193290.0,False
+Martin Erlic,martin erlic,m erlic,244456.0,M. Erlić,Martin Erlić,exact_long_name,100.0,244456.0,False
+Martin Hongla,martin hongla,m hongla,236556.0,M. Hongla,Martin Hongla Yma,exact_player_to_short_name,99.0,236556.0,False
+Martinelli,martinelli,martinelli,,,,unmatched,,,True
+Martín Cáceres,martin caceres,m caceres,182495.0,M. Cáceres,José Martín Cáceres Silva,exact_player_to_short_name,99.0,182495.0,False
+Mason Mount,mason mount,m mount,233064.0,M. Mount,Mason Mount,exact_long_name,100.0,233064.0,False
+Mateo Kovačić,mateo kovacic,m kovacic,207410.0,M. Kovačić,Mateo Kovačić,exact_long_name,100.0,207410.0,False
+Mateusz Wieteska,mateusz wieteska,m wieteska,224302.0,M. Wieteska,Mateusz Wieteska,exact_long_name,100.0,224302.0,False
+Matheus Nunes,matheus nunes,m nunes,253124.0,Matheus Nunes,Matheus Luiz Nunes,exact_short_name,100.0,253124.0,False
+Mathew Leckie,mathew leckie,m leckie,195033.0,M. Leckie,Mathew Allan Leckie,exact_player_to_short_name,99.0,195033.0,False
+Mathew Ryan,mathew ryan,m ryan,199005.0,M. Ryan,Mathew David Ryan,exact_player_to_short_name,99.0,199005.0,False
+Mathias Jensen,mathias jensen,m jensen,229723.0,M. Jensen,Mathias Jensen,exact_long_name,100.0,229723.0,False
+Mathías Olivera,mathias olivera,m olivera,240716.0,M. Olivera,Mathías Olivera Miramontes,exact_player_to_short_name,99.0,240716.0,False
+Matt Turner,matt turner,m turner,233267.0,M. Turner,Matthew Charles Turner,exact_player_to_short_name,99.0,233267.0,False
+Matthew Smith,matthew smith,m smith,233950.0,M. Smith,Matthew Smith,exact_long_name,100.0,233950.0,False
+Matthias Ginter,matthias ginter,m ginter,207862.0,M. Ginter,Matthias Ginter,exact_long_name,100.0,207862.0,False
+Matthijs de Ligt,matthijs de ligt,m de ligt,235243.0,M. de Ligt,Matthijs de Ligt,exact_long_name,100.0,235243.0,False
+Matty Cash,matty cash,m cash,227174.0,M. Cash,Matty Cash,exact_long_name,100.0,227174.0,False
+Mattéo Guendouzi,matteo guendouzi,m guendouzi,236496.0,M. Guendouzi,Mattéo Elias Kenzo Guendouzi Olié,exact_player_to_short_name,99.0,236496.0,False
+Matías Vecino,matias vecino,m vecino,219985.0,M. Vecino,Matías Vecino Falero,exact_player_to_short_name,99.0,219985.0,False
+Matías Viña,matias vina,m vina,253290.0,M. Viña,Matías Viña,exact_long_name,100.0,253290.0,False
+Maxi Gómez,maxi gomez,m gomez,239207.0,M. Gómez,Maximiliano Gómez González,exact_player_to_short_name,99.0,239207.0,False
+Maya Yoshida,maya yoshida,m yoshida,191648.0,M. Yoshida,吉田 麻也,exact_player_to_short_name,99.0,191648.0,False
+Mehdi Taremi,mehdi taremi,m taremi,241788.0,M. Taremi,Mehdi Taremi,exact_long_name,100.0,241788.0,False
+Mehdi Torabi,mehdi torabi,m torabi,,,,unmatched,,,True
+Memphis,memphis,memphis,,,,unmatched,,,True
+Meshaal Barsham,meshaal barsham,m barsham,,,,unmatched,,,True
+Michael Estrada,michael estrada,m estrada,240944.0,M. Estrada,Michael Steveen Estrada Martínez,exact_player_to_short_name,99.0,240944.0,False
+Michał Skóraś,micha skoras,m skoras,251633.0,M. Skóraś,Michał Skóraś,exact_long_name,100.0,251633.0,False
+Michel Aebischer,michel aebischer,m aebischer,236898.0,M. Aebischer,Michel Aebischer,exact_long_name,100.0,236898.0,False
+Michy Batshuayi,michy batshuayi,m batshuayi,204529.0,M. Batshuayi,Michy Batshuayi Tunga,exact_player_to_short_name,99.0,204529.0,False
+Miki Yamane,miki yamane,m yamane,233169.0,M. Yamane,山根 視来,exact_player_to_short_name,99.0,233169.0,False
+Mikkel Damsgaard,mikkel damsgaard,m damsgaard,241508.0,M. Damsgaard,Mikkel Krogh Damsgaard,exact_player_to_short_name,99.0,241508.0,False
+Milad Mohammadi,milad mohammadi,m mohammadi,,,,unmatched,,,True
+Milan Borjan,milan borjan,m borjan,205211.0,M. Borjan,Milan Borjan,exact_long_name,100.0,205211.0,False
+Miloš Degenek,milos degenek,m degenek,229585.0,M. Degenek,Miloš Degenek,exact_long_name,100.0,229585.0,False
+Miloš Veljković,milos veljkovic,m veljkovic,221354.0,M. Veljković,Miloš Veljković,exact_long_name,100.0,221354.0,False
+Mislav Oršić,mislav orsic,m orsic,221174.0,M. Oršić,Mislav Oršić,exact_long_name,100.0,221174.0,False
+Mitchell Duke,mitchell duke,m duke,209885.0,M. Duke,Mitchell Thomas Duke,exact_player_to_short_name,99.0,209885.0,False
+Mohamed Ali Ben Romdhane,mohamed ali ben romdhane,m romdhane,,,,unmatched,,,True
+Mohamed Dräger,mohamed drager,m drager,242041.0,M. Dräger,Mohamed Dräger,exact_long_name,100.0,242041.0,False
+Mohamed Kanno,mohamed kanno,m kanno,220075.0,M. Kanno,Mohammed Ibrahim Kanoo,exact_player_to_short_name,99.0,220075.0,False
+Mohammed Al Yami,mohammed al yami,m yami,245276.0,M. Al Rubaie,Mohammed Faraj Al Rubaie Al Yami,exact_player_to_short_from_long,99.0,245276.0,False
+Mohammed Al-Breik,mohammed al breik,m breik,,,,unmatched,,,True
+Mohammed Al-Owais,mohammed al owais,m owais,210923.0,M. Al Owais,Mohammed Al Owais,exact_long_name,100.0,210923.0,False
+Mohammed Muntari,mohammed muntari,m muntari,,,,unmatched,,,True
+Mohammed Salisu,mohammed salisu,m salisu,244915.0,M. Salisu,Mohamed Salisu Abdul Karim,exact_player_to_short_name,99.0,244915.0,False
+Mohammed Waad,mohammed waad,m waad,219936.0,M. Al Wakid,Mohammed Al Wakid,long_name_fuzzy|player_key,80.0,,True
+Moisés Caicedo,moises caicedo,m caicedo,218976.0,M. Caicedo,Marcos Jackson Caicedo Caicedo,exact_player_to_short_name,99.0,218976.0,False
+Moisés Ramírez,moises ramirez,m ramirez,261275.0,M. Ramírez,Matías Ramírez,exact_player_to_short_name,99.0,261275.0,False
+Montassar Talbi,montassar talbi,m talbi,,,,unmatched,,,True
+Morteza Pouraliganji,morteza pouraliganji,m pouraliganji,227921.0,M. Pouraliganji,Morteza Pouraliganji,exact_long_name,100.0,227921.0,False
+Mostafa Meshaal,mostafa meshaal,m meshaal,,,,unmatched,,,True
+Mouez Hassen,mouez hassen,m hassen,,,,unmatched,,,True
+Moumi Ngamaleu,moumi ngamaleu,m ngamaleu,235996.0,N. Moumi Ngamaleu,Nicolas Brice Moumi Ngamaleu,short_name_fuzzy|player_key,93.33333333333333,235996.0,False
+Moussa N'Diaye,moussa ndiaye,m ndiaye,263282.0,M. N'Diaye,Modou N'Diaye,exact_player_to_short_name,99.0,263282.0,False
+Moustapha Name,moustapha name,m name,256692.0,M. Name,Moustapha Name,exact_long_name,100.0,256692.0,False
+Munir,munir,munir,220253.0,Munir,Munir El Haddadi Mohamed,exact_short_name,100.0,220253.0,False
+Musab Kheder,musab kheder,m kheder,,,,unmatched,,,True
+Na Sang-ho,na sang ho,n ho,238097.0,Na Sang Ho,나상호 那尚昊,exact_short_name,100.0,238097.0,False
+Nader Ghandri,nader ghandri,n ghandri,,,,unmatched,,,True
+Nahuel Molina,nahuel molina,n molina,233084.0,N. Molina,Nahuel Molina Lucero,exact_player_to_short_name,99.0,233084.0,False
+Naif Al-Hadhrami,naif al hadhrami,n hadhrami,,,,unmatched,,,True
+Nampalys Mendy,nampalys mendy,n mendy,198861.0,N. Mendy,Nampalys Mendy,exact_long_name,100.0,198861.0,False
+Nasser Al-Dawsari,nasser al dawsari,n dawsari,241938.0,N. Al Dawsari,Nasser Eissa Al-Dawsari,exact_player_to_short_from_long,99.0,241938.0,False
+Nathan Aké,nathan ake,n ake,208920.0,N. Aké,Nathan Aké,exact_long_name,100.0,208920.0,False
+Nathaniel Atkinson,nathaniel atkinson,n atkinson,241861.0,N. Atkinson,Nathaniel Atkinson,exact_long_name,100.0,241861.0,False
+Nawaf Al Abed,nawaf al abed,n abed,,,,unmatched,,,True
+Nawaf Al Aqidi,nawaf al aqidi,n aqidi,255368.0,N. Al Aqidi,Nawaf Dhahi Al-Aqidi,exact_player_to_short_from_long,99.0,255368.0,False
+Nayef Aguerd,nayef aguerd,n aguerd,244749.0,N. Aguerd,Nayef Aguerd,exact_long_name,100.0,244749.0,False
+Naïm Sliti,naim sliti,n sliti,205257.0,N. Sliti,Naïm Sliti,exact_long_name,100.0,205257.0,False
+Neco Williams,neco williams,n williams,243057.0,N. Williams,Neco Williams,exact_long_name,100.0,243057.0,False
+Nemanja Gudelj,nemanja gudelj,n gudelj,193198.0,N. Gudelj,Nemanja Gudelj,exact_long_name,100.0,193198.0,False
+Nemanja Maksimović,nemanja maksimovic,n maksimovic,239433.0,N. Maksimović,Nemanja Maksimović,exact_long_name,100.0,239433.0,False
+Nemanja Radonjić,nemanja radonjic,n radonjic,243656.0,N. Radonjić,Nemanja Radonjić,exact_long_name,100.0,243656.0,False
+Neymar,neymar,neymar,190871.0,Neymar Jr,Neymar da Silva Santos Júnior,exact_short_name,100.0,190871.0,False
+Nick Pope,nick pope,n pope,203841.0,N. Pope,Nick Pope,exact_long_name,100.0,203841.0,False
+Niclas Füllkrug,niclas fullkrug,n fullkrug,205431.0,N. Füllkrug,Niclas Füllkrug,exact_long_name,100.0,205431.0,False
+Nico Elvedi,nico elvedi,n elvedi,221491.0,N. Elvedi,Nico Elvedi,exact_long_name,100.0,221491.0,False
+Nico Schlotterbeck,nico schlotterbeck,n schlotterbeck,247819.0,N. Schlotterbeck,Nico Schlotterbeck,exact_long_name,100.0,247819.0,False
+Nico Williams,nico williams,n williams,256516.0,Nico Williams,Nicholas Williams Arthuer,exact_short_name,100.0,256516.0,False
+Nicola Zalewski,nicola zalewski,n zalewski,262113.0,N. Zalewski,Nicola Zalewski,exact_long_name,100.0,262113.0,False
+Nicolas Jackson,nicolas jackson,n jackson,204095.0,R. Jackson,Ryan Oliver Jackson,short_name_fuzzy|player_shortlike_key,88.88888888888889,204095.0,False
+Nicolas Nkoulou,nicolas nkoulou,n nkoulou,,,,unmatched,,,True
+Nicolás De La Cruz,nicolas de la cruz,n la cruz,240699.0,N. De la Cruz,Diego Nicolás De La Cruz Arcosa,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Nicolás Otamendi,nicolas otamendi,n otamendi,192366.0,N. Otamendi,Nicolás Hernán Gonzalo Otamendi,exact_player_to_short_name,99.0,192366.0,False
+Nicolás Tagliafico,nicolas tagliafico,n tagliafico,211256.0,N. Tagliafico,Nicolás Alejandro Tagliafico,exact_player_to_short_name,99.0,211256.0,False
+Niklas Süle,niklas sule,n sule,212190.0,N. Süle,Niklas Süle,exact_long_name,100.0,212190.0,False
+Nikola Milenković,nikola milenkovic,n milenkovic,238095.0,N. Milenković,Nikola Milenković,exact_long_name,100.0,238095.0,False
+Nikola Vlašić,nikola vlasic,n vlasic,241095.0,N. Vlašić,Nikola Vlašić,exact_long_name,100.0,241095.0,False
+Noa Lang,noa lang,n lang,239380.0,N. Lang,Noa Noëll Lang,exact_player_to_short_name,99.0,239380.0,False
+Noah Okafor,noah okafor,n okafor,242530.0,N. Okafor,Noah Arinzechukwu Okafor,exact_player_to_short_name,99.0,242530.0,False
+Nouhou Tolo,nouhou tolo,n tolo,237469.0,Nouhou,Nouhou Tolo,exact_long_name,100.0,237469.0,False
+Noussair Mazraoui,noussair mazraoui,n mazraoui,236401.0,N. Mazraoui,Noussair Mazraoui,exact_long_name,100.0,236401.0,False
+Nuno Mendes,nuno mendes,n mendes,252145.0,Nuno Mendes,Nuno Alexandre Tavares Mendes,exact_short_name,100.0,252145.0,False
+Néstor Araujo,nestor araujo,n araujo,192041.0,N. Araújo,Néstor Alejandro Araújo Razo,exact_player_to_short_name,99.0,192041.0,False
+Oliver Christensen,oliver christensen,o christensen,236758.0,O. Christensen,Oliver Christensen,exact_long_name,100.0,236758.0,False
+Olivier Giroud,olivier giroud,o giroud,178509.0,O. Giroud,Olivier Giroud,exact_long_name,100.0,178509.0,False
+Olivier Mbaizo,olivier mbaizo,o mbaizo,243235.0,O. Mbaizo,Olivier Mbaissidara Mbaizo,exact_player_to_short_name,99.0,243235.0,False
+Olivier Ntcham,olivier ntcham,o ntcham,218745.0,O. Ntcham,Jules Olivier Ntcham,exact_player_to_short_name,99.0,218745.0,False
+Orbelín Pineda,orbelin pineda,o pineda,224574.0,O. Pineda,Orbelín Pineda Alvarado,exact_player_to_short_name,99.0,224574.0,False
+Osman Bukari,osman bukari,o bukari,258608.0,O. Bukari,Osman Bukari,exact_long_name,100.0,258608.0,False
+Otávio,otavio,otavio,210411.0,Otávio,Otávio Edmilson da Silva Monteiro,exact_short_name,100.0,210411.0,False
+Ousmane Dembélé,ousmane dembele,o dembele,231443.0,O. Dembélé,Ousmane Dembélé,exact_long_name,100.0,231443.0,False
+Pablo Sarabia,pablo sarabia,p sarabia,198950.0,Pablo Sarabia,Pablo Sarabia García,exact_short_name,100.0,198950.0,False
+Paik Seung-ho,paik seung ho,p ho,237424.0,Paik Seung Ho,백승호 Seung Ho Paik,exact_short_name,100.0,237424.0,False
+Pape Abou Cissé,pape abou cisse,p cisse,228386.0,P. Cissé,Pape Abou Cissé,exact_long_name,100.0,228386.0,False
+Pape Gueye,pape gueye,p gueye,241707.0,P. Gueye,Pape Alassane Gueye,exact_player_to_short_name,99.0,241707.0,False
+Pape Matar Sarr,pape matar sarr,p sarr,259868.0,P. Sarr,Pape Matar Sarr,exact_long_name,100.0,259868.0,False
+Papu Gómez,papu gomez,p gomez,244643.0,P. Gómez,Pablo Leandro Gómez,exact_player_to_short_name,99.0,244643.0,False
+Pathé Ciss,pathe ciss,p ciss,250858.0,P. Ciss,Ismaila Pathé Ciss,exact_player_to_short_name,99.0,250858.0,False
+Patrick Sequeira,patrick sequeira,p sequeira,242444.0,João Félix,João Félix Sequeira,short_from_long_fuzzy|player_shortlike_key,90.0,242444.0,False
+Pau Torres,pau torres,p torres,241464.0,Pau Torres,Pau Francisco Torres,exact_short_name,100.0,241464.0,False
+Paulo Dybala,paulo dybala,p dybala,211110.0,P. Dybala,Paulo Bruno Exequiel Dybala,exact_player_to_short_name,99.0,211110.0,False
+Payam Niazmand,payam niazmand,p niazmand,263238.0,S. Niazmand,Seyed Payam Niazmand,short_name_fuzzy|player_shortlike_key,90.0,263238.0,False
+Pedri,pedri,pedri,251854.0,Pedri,Pedro González López,exact_short_name,100.0,251854.0,False
+Pedro,pedro,pedro,189505.0,Pedro,Pedro Eliezer Rodríguez Ledesma,exact_short_name,100.0,189505.0,False
+Pepe,pepe,pepe,120533.0,Pepe,Kléper Laveran de Lima Ferreira,exact_short_name,100.0,120533.0,False
+Pervis Estupiñán,pervis estupinan,p estupinan,237942.0,P. Estupiñán,Pervis Josué Estupiñán Tenorio,exact_player_to_short_name,99.0,237942.0,False
+Phil Foden,phil foden,p foden,237692.0,P. Foden,Philip Foden,exact_player_to_short_name,99.0,237692.0,False
+Philipp Köhn,philipp kohn,p kohn,239364.0,P. Köhn,Philipp Köhn,exact_long_name,100.0,239364.0,False
+Piero Hincapié,piero hincapie,p hincapie,256197.0,P. Hincapié,Piero Martín Hincapié Reyna,exact_player_to_short_name,99.0,256197.0,False
+Pierre Højbjerg,pierre hjbjerg,p hjbjerg,213648.0,P. Højbjerg,Pierre-Emile Kordt Højbjerg,exact_player_to_short_name,99.0,213648.0,False
+Pierre Kunde,pierre kunde,p kunde,,,,unmatched,,,True
+Piotr Zieliński,piotr zielinski,p zielinski,210406.0,P. Zieliński,Piotr Sebastian Zieliński,exact_player_to_short_name,99.0,210406.0,False
+Predrag Rajković,predrag rajkovic,p rajkovic,241727.0,P. Rajković,Predrag Rajković,exact_long_name,100.0,241727.0,False
+Przemysław Frankowski,przemysaw frankowski,p frankowski,212138.0,P. Frankowski,Przemysław Frankowski,exact_long_name,100.0,212138.0,False
+Rafael Leão,rafael leao,r leao,241721.0,Rafael Leão,Rafael Alexandre Conceição Leão,exact_short_name,100.0,241721.0,False
+Raheem Sterling,raheem sterling,r sterling,202652.0,R. Sterling,Raheem Sterling,exact_long_name,100.0,202652.0,False
+Ramin Rezaeian,ramin rezaeian,r rezaeian,,,,unmatched,,,True
+Randal Kolo Muani,randal kolo muani,r muani,237679.0,R. Kolo Muani,Randal Kolo Muani,exact_long_name,100.0,237679.0,False
+Raphaël Guerreiro,raphael guerreiro,r guerreiro,209889.0,R. Guerreiro,Raphaël Adelino José Guerreiro,exact_player_to_short_name,99.0,209889.0,False
+Raphaël Varane,raphael varane,r varane,201535.0,R. Varane,Raphaël Varane,exact_long_name,100.0,201535.0,False
+Raphinha,raphinha,raphinha,233419.0,Raphinha,Raphael Dias Belloli,exact_short_name,100.0,233419.0,False
+Rasmus Nissen,rasmus nissen,r nissen,,,,unmatched,,,True
+Raúl Jiménez,raul jimenez,r jimenez,204838.0,R. Jiménez,Raúl Alonso Jiménez Rodríguez,exact_player_to_short_name,99.0,204838.0,False
+Remko Pasveer,remko pasveer,r pasveer,162328.0,R. Pasveer,Remko Pasveer,exact_long_name,100.0,162328.0,False
+Remo Freuler,remo freuler,r freuler,202024.0,R. Freuler,Remo Marco Freuler,exact_player_to_short_name,99.0,202024.0,False
+Renato Steffen,renato steffen,r steffen,210537.0,R. Steffen,Renato Steffen,exact_long_name,100.0,210537.0,False
+Ricardo Horta,ricardo horta,r horta,213516.0,Ricardo Horta,Ricardo Jorge da Luz Horta,exact_short_name,100.0,213516.0,False
+Ricardo Rodríguez,ricardo rodriguez,r rodriguez,193352.0,R. Rodríguez,Ricardo Iván Rodríguez Araya,exact_player_to_short_name,99.0,193352.0,False
+Richarlison,richarlison,richarlison,231943.0,Richarlison,Richarlison de Andrade,exact_short_name,100.0,231943.0,False
+Richie Laryea,richie laryea,r laryea,232081.0,R. Laryea,Richie Mamah Laryea,exact_player_to_short_name,99.0,232081.0,False
+Riley McGree,riley mcgree,r mcgree,233487.0,R. McGree,Riley Patrick McGree,exact_player_to_short_name,99.0,233487.0,False
+Ritsu Doan,ritsu doan,r doan,232639.0,R. Doan,堂安 律,exact_player_to_short_name,99.0,232639.0,False
+Riyadh Sharahili,riyadh sharahili,r sharahili,229800.0,R. Sharahili,Riyadh Sharahili,exact_long_name,100.0,229800.0,False
+Roan Wilson,roan wilson,r wilson,196978.0,C. Wilson,Callum Wilson,short_name_fuzzy|player_shortlike_key,87.5,,True
+Robert Arboleda,robert arboleda,r arboleda,214462.0,I. Arboleda,Iván Mauricio Arboleda,short_name_fuzzy|player_shortlike_key,90.0,214462.0,False
+Robert Gumny,robert gumny,r gumny,233409.0,R. Gumny,Robert Gumny,exact_long_name,100.0,233409.0,False
+Robert Lewandowski,robert lewandowski,r lewandowski,188545.0,R. Lewandowski,Robert Lewandowski,exact_long_name,100.0,188545.0,False
+Robert Skov,robert skov,r skov,215449.0,R. Skov,Robert Skov,exact_long_name,100.0,215449.0,False
+Robert Sánchez,robert sanchez,r sanchez,228789.0,Robert Sanchéz,Robert Lynch Sanchéz,exact_short_name,100.0,228789.0,False
+Roberto Alvarado,roberto alvarado,r alvarado,237043.0,R. Alvarado,Roberto Carlos Alvarado Hernández,exact_player_to_short_name,99.0,237043.0,False
+Rodolfo Cota,rodolfo cota,r cota,186098.0,R. Cota,Rodolfo Cota Robles,exact_player_to_short_name,99.0,186098.0,False
+Rodri,rodri,rodri,231866.0,Rodri,Rodrigo Hernández Cascante,exact_short_name,100.0,231866.0,False
+Rodrigo Bentancur,rodrigo bentancur,r bentancur,227535.0,R. Bentancur,Rodrigo Bentancur Colmán,exact_player_to_short_name,99.0,227535.0,False
+Rodrigo De Paul,rodrigo de paul,r de paul,212616.0,R. De Paul,Rodrigo Javier De Paul,exact_player_to_short_name,99.0,212616.0,False
+Rodrygo,rodrygo,rodrygo,243812.0,Rodrygo,Rodrygo Silva de Goes,exact_short_name,100.0,243812.0,False
+Rogelio Funes Mori,rogelio funes mori,r mori,198140.0,R. Funes Mori,Rogelio Gabriel Funes Mori,exact_player_to_short_from_long,99.0,198140.0,False
+Romain Saïss,romain saiss,r saiss,208295.0,R. Saïss,Romain Saïss,exact_long_name,100.0,208295.0,False
+Romario Ibarra,romario ibarra,r ibarra,204738.0,R. Ibarra,Alex Renato Ibarra Mina,exact_player_to_short_name,99.0,204738.0,False
+Romelu Lukaku,romelu lukaku,r lukaku,192505.0,R. Lukaku,Romelu Lukaku Menama,exact_player_to_short_name,99.0,192505.0,False
+Roozbeh Cheshmi,roozbeh cheshmi,r cheshmi,,,,unmatched,,,True
+Ruben Vargas,ruben vargas,r vargas,238581.0,R. Vargas,Ruben Estephan Vargas Martínez,exact_player_to_short_name,99.0,238581.0,False
+Rubin Colwill,rubin colwill,r colwill,257437.0,R. Colwill,Rubin James Colwill,exact_player_to_short_name,99.0,257437.0,False
+Rui Patrício,rui patricio,r patricio,178005.0,Rui Patrício,Rui Pedro dos Santos Patrício,exact_short_name,100.0,178005.0,False
+Ró-Ró,ro ro,r ro,,,,unmatched,,,True
+Rónald Matarrita,ronald matarrita,r matarrita,232230.0,R. Matarrita,Ronald Alberto Matarrita Ulate,exact_player_to_short_name,99.0,232230.0,False
+Rúben Dias,ruben dias,r dias,239818.0,Rúben Dias,Rúben dos Santos Gato Alves Dias,exact_short_name,100.0,239818.0,False
+Rúben Neves,ruben neves,r neves,224293.0,Rúben Neves,Rúben Diogo da Silva Neves,exact_short_name,100.0,224293.0,False
+Saad Al Sheeb,saad al sheeb,s sheeb,,,,unmatched,,,True
+Sadegh Moharrami,sadegh moharrami,s moharrami,244259.0,S. Moharrami,Sadegh Moharrami,exact_long_name,100.0,244259.0,False
+Saeid Ezatolahi,saeid ezatolahi,s ezatolahi,233241.0,S. Ezatolahi,Saeid Ezatolahi Afagh,exact_player_to_short_name,99.0,233241.0,False
+Saleh Al-Shehri,saleh al shehri,s shehri,211173.0,S. Al Shehri,Saleh Khalid Al-Shehri,exact_player_to_short_from_long,99.0,211173.0,False
+Salem Al-Dawsari,salem al dawsari,s dawsari,210602.0,S. Al Dawsari,Salem Mohammed Al-Dawsari,exact_player_to_short_from_long,99.0,210602.0,False
+Salem Al-Hajri,salem al hajri,s hajri,,,,unmatched,,,True
+Salis Abdul Samed,salis abdul samed,s samed,252059.0,S. Abdul Samed,Salis Abdul Samed,exact_long_name,100.0,252059.0,False
+Salman Al-Faraj,salman al faraj,s faraj,263426.0,S. Faraj,Samy Faraj,exact_player_to_short_name,99.0,263426.0,False
+Sam Adekugbe,sam adekugbe,s adekugbe,220028.0,S. Adekugbe,Samuel Ayomide Adekugbe,exact_player_to_short_name,99.0,220028.0,False
+Saman Ghoddos,saman ghoddos,s ghoddos,231949.0,S. Ghoddos,Saman Ghoddos,exact_long_name,100.0,231949.0,False
+Sami Al-Najei,sami al najei,s najei,233961.0,S. Al Najai,Sami Khalil Al-Najei,exact_player_to_short_from_long,99.0,233961.0,False
+Samuel Oum Gouet,samuel oum gouet,s gouet,241093.0,S. Oum Gouet,Samuel Yves Oum Gouet,exact_player_to_short_from_long,99.0,241093.0,False
+Samuel Piette,samuel piette,s piette,213092.0,S. Piette,Samuel Piette,exact_long_name,100.0,213092.0,False
+Sardar Azmoun,sardar azmoun,s azmoun,,,,unmatched,,,True
+Saud Abdulhamid,saud abdulhamid,s abdulhamid,246688.0,S. Abdulhamid,Saud Abdullah Abdul Hamid,exact_player_to_short_name,99.0,246688.0,False
+Saša Lukić,sasa lukic,s lukic,236699.0,S. Lukić,Saša Lukić,exact_long_name,100.0,236699.0,False
+Sean Johnson,sean johnson,s johnson,190780.0,S. Johnson,Sean Everet Johnson,exact_player_to_short_name,99.0,190780.0,False
+Sebastian Szymański,sebastian szymanski,s szymanski,235973.0,S. Szymański,Sebastian Szymański,exact_long_name,100.0,235973.0,False
+Sebastián Coates,sebastian coates,s coates,197655.0,S. Coates,Sebastián Coates Nión,exact_player_to_short_name,99.0,197655.0,False
+Sebastián Sosa,sebastian sosa,s sosa,205409.0,S. Sosa,Carlos Sebastián Sosa Silva,exact_player_to_short_name,99.0,205409.0,False
+Seifeddine Jaziri,seifeddine jaziri,s jaziri,,,,unmatched,,,True
+Selim Amallah,selim amallah,s amallah,229010.0,S. Amallah,Selim Amallah,exact_long_name,100.0,229010.0,False
+Seny Dieng,seny dieng,s dieng,239358.0,S. Dieng,Seny Timothy Dieng,exact_player_to_short_name,99.0,239358.0,False
+Serge Gnabry,serge gnabry,s gnabry,206113.0,S. Gnabry,Serge David Gnabry,exact_player_to_short_name,99.0,206113.0,False
+Sergej Milinković-Savić,sergej milinkovic savic,s savic,223848.0,S. Milinković-Savić,Sergej Milinković-Savić,exact_long_name,100.0,223848.0,False
+Sergio Busquets,sergio busquets,s busquets,189511.0,Sergio Busquets,Sergio Busquets i Burgos,exact_short_name,100.0,189511.0,False
+Sergio Rochet,sergio rochet,s rochet,223690.0,S. Rochet,Sergio Ramón Rochet Álvarez,exact_player_to_short_name,99.0,223690.0,False
+Sergiño Dest,sergino dest,s dest,251804.0,S. Dest,Sergiño Gianni Dest,exact_player_to_short_name,99.0,251804.0,False
+Shaquell Moore,shaquell moore,s moore,232120.0,S. Moore,Shaquell Moore,exact_long_name,100.0,232120.0,False
+Shogo Taniguchi,shogo taniguchi,s taniguchi,233225.0,S. Taniguchi,谷口 彰悟,exact_player_to_short_name,99.0,233225.0,False
+Shoja' Khalilzadeh,shoja khalilzadeh,s khalilzadeh,,,,unmatched,,,True
+Shuto Machino,shuto machino,s machino,245622.0,S. Machino,町野 脩斗,exact_player_to_short_name,99.0,245622.0,False
+Shūichi Gonda,shuichi gonda,s gonda,217649.0,S. Gonda,権田 修一,exact_player_to_short_name,99.0,217649.0,False
+Silvan Widmer,silvan widmer,s widmer,216158.0,S. Widmer,Silvan Dominic Widmer,exact_player_to_short_name,99.0,216158.0,False
+Simon Kjær,simon kjr,s kjr,179645.0,S. Kjær,Simon Thorup Kjær,exact_player_to_short_name,99.0,179645.0,False
+Simon Mignolet,simon mignolet,s mignolet,173426.0,S. Mignolet,Simon Luc Hildebert Mignolet,exact_player_to_short_name,99.0,173426.0,False
+Simon Ngapandouetnbu,simon ngapandouetnbu,s ngapandouetnbu,255151.0,S. Ngapandouetnbu,Simon Brady Ngapandouetnbu,exact_player_to_short_name,99.0,255151.0,False
+Sofiane Boufal,sofiane boufal,s boufal,211381.0,S. Boufal,Sofiane Boufal,exact_long_name,100.0,211381.0,False
+Sofyan Amrabat,sofyan amrabat,s amrabat,224158.0,S. Amrabat,Sofyan Amrabat,exact_long_name,100.0,224158.0,False
+Son Heung-min,son heung min,s min,,,,unmatched,,,True
+Son Jun-ho,son jun ho,s ho,221875.0,Son Jun Ho,손준호 孙准浩,exact_short_name,100.0,221875.0,False
+Song Bumkeun,song bumkeun,s bumkeun,238570.0,Song Bum Keun,송범근 Bum Keun Song,long_name_fuzzy|player_key,96.0,238570.0,False
+Song Minkyu,song minkyu,s minkyu,,,,unmatched,,,True
+Sorba Thomas,sorba thomas,s thomas,260478.0,S. Thomas,Sorba Thomas,exact_long_name,100.0,260478.0,False
+Srđan Babić,sran babic,s babic,235589.0,S. Babić,Srđan Babić,exact_long_name,100.0,235589.0,False
+Stefan Mitrović,stefan mitrovic,s mitrovic,209547.0,S. Mitrović,Stefan Mitrović,exact_long_name,100.0,209547.0,False
+Stefan de Vrij,stefan de vrij,s de vrij,198176.0,S. de Vrij,Stefan de Vrij,exact_long_name,100.0,198176.0,False
+Stephen Eustáquio,stephen eustaquio,s eustaquio,242380.0,Stephen Eustáquio,Stephen Antunes Eustáquio,exact_short_name,100.0,242380.0,False
+Steve Mandanda,steve mandanda,s mandanda,163705.0,S. Mandanda,Steve Mandanda,exact_long_name,100.0,163705.0,False
+Steven Berghuis,steven berghuis,s berghuis,200260.0,S. Berghuis,Steven Berghuis,exact_long_name,100.0,200260.0,False
+Steven Bergwijn,steven bergwijn,s bergwijn,225953.0,S. Bergwijn,Steven Charles Bergwijn,exact_player_to_short_name,99.0,225953.0,False
+Steven Vitória,steven vitoria,s vitoria,192528.0,Steven Vitória,Steven de Sousa Vitória,exact_short_name,100.0,192528.0,False
+Strahinja Eraković,strahinja erakovic,s erakovic,254840.0,S. Pavlović,Strahinja Pavlović,long_name_fuzzy|player_key,83.33333333333334,,True
+Strahinja Pavlović,strahinja pavlovic,s pavlovic,254840.0,S. Pavlović,Strahinja Pavlović,exact_long_name,100.0,254840.0,False
+Sultan Al-Ghanam,sultan al ghanam,s ghanam,232477.0,S. Al Ghannam,Sultan Abdullah Al-Ghannam,short_from_long_fuzzy|player_shortlike_key,94.11764705882352,232477.0,False
+Szymon Żurkowski,szymon zurkowski,s zurkowski,239732.0,S. Żurkowski,Szymon Piotr Żurkowski,exact_player_to_short_name,99.0,239732.0,False
+Taha Yassine Khenissi,taha yassine khenissi,t khenissi,,,,unmatched,,,True
+Tajon Buchanan,tajon buchanan,t buchanan,246800.0,T. Buchanan,Tajon Buchanan,exact_long_name,100.0,246800.0,False
+Takefusa Kubo,takefusa kubo,t kubo,237681.0,T. Kubo,久保 建英,exact_player_to_short_name,99.0,237681.0,False
+Takehiro Tomiyasu,takehiro tomiyasu,t tomiyasu,232938.0,T. Tomiyasu,冨安 健洋,exact_player_to_short_name,99.0,232938.0,False
+Takuma Asano,takuma asano,t asano,232610.0,T. Asano,浅野 佐藤,exact_player_to_short_name,99.0,232610.0,False
+Takumi Minamino,takumi minamino,t minamino,226627.0,T. Minamino,南野 拓実,exact_player_to_short_name,99.0,226627.0,False
+Tarek Salman,tarek salman,t salman,,,,unmatched,,,True
+Tariq Lamptey,tariq lamptey,t lamptey,242418.0,T. Lamptey,Tariq Lamptey,exact_long_name,100.0,242418.0,False
+Teun Koopmeiners,teun koopmeiners,t koopmeiners,240679.0,T. Koopmeiners,Teun Koopmeiners,exact_long_name,100.0,240679.0,False
+Theo Hernández,theo hernandez,t hernandez,232656.0,T. Hernández,Theo Bernard François Hernández,exact_player_to_short_name,99.0,232656.0,False
+Thiago Almada,thiago almada,t almada,245371.0,T. Almada,Thiago Ezequiel Almada,exact_player_to_short_name,99.0,245371.0,False
+Thiago Silva,thiago silva,t silva,164240.0,Thiago Silva,Thiago Emiliano da Silva,exact_short_name,100.0,164240.0,False
+Thibaut Courtois,thibaut courtois,t courtois,192119.0,T. Courtois,Thibaut Courtois,exact_long_name,100.0,192119.0,False
+Thilo Kehrer,thilo kehrer,t kehrer,226229.0,T. Kehrer,Jan Thilo Kehrer,exact_player_to_short_name,99.0,226229.0,False
+Thomas Delaney,thomas delaney,t delaney,193283.0,T. Delaney,Thomas Joseph Delaney,exact_player_to_short_name,99.0,193283.0,False
+Thomas Deng,thomas deng,t deng,228310.0,T. Deng,Thomas Jok Deng,exact_player_to_short_name,99.0,228310.0,False
+Thomas Meunier,thomas meunier,t meunier,202371.0,T. Meunier,Thomas Meunier,exact_long_name,100.0,202371.0,False
+Thomas Müller,thomas muller,t muller,189596.0,T. Müller,Thomas Müller,exact_long_name,100.0,189596.0,False
+Thomas Partey,thomas partey,t partey,209989.0,T. Partey,Thomas Partey,exact_long_name,100.0,209989.0,False
+Thorgan Hazard,thorgan hazard,t hazard,203486.0,T. Hazard,Thorgan Hazard,exact_long_name,100.0,203486.0,False
+Tim Ream,tim ream,t ream,198261.0,T. Ream,Timothy Michael Ream,exact_player_to_short_name,99.0,198261.0,False
+Timothy Castagne,timothy castagne,t castagne,222501.0,T. Castagne,Timothy Castagne,exact_long_name,100.0,222501.0,False
+Timothy Weah,timothy weah,t weah,241496.0,T. Weah,Timothy Tarpeh Weah,exact_player_to_short_name,99.0,241496.0,False
+Toby Alderweireld,toby alderweireld,t alderweireld,184087.0,T. Alderweireld,Toby Alderweireld,exact_long_name,100.0,184087.0,False
+Tom Lockyer,tom lockyer,t lockyer,211363.0,T. Lockyer,Thomas Alun Lockyer,exact_player_to_short_name,99.0,211363.0,False
+Trent Alexander-Arnold,trent alexander arnold,t arnold,231281.0,T. Alexander-Arnold,Trent Alexander-Arnold,exact_long_name,100.0,231281.0,False
+Tyler Adams,tyler adams,t adams,232999.0,T. Adams,Tyler Shaan Adams,exact_player_to_short_name,99.0,232999.0,False
+Tyrell Malacia,tyrell malacia,t malacia,238041.0,T. Malacia,Tyrell Malacia,exact_long_name,100.0,238041.0,False
+Unai Simón,unai simon,u simon,230869.0,Unai Simón,Unai Simón Mendibil,exact_short_name,100.0,230869.0,False
+Uriel Antuna,uriel antuna,u antuna,237997.0,U. Antuna,Carlos Uriel Antuna Romero,exact_player_to_short_name,99.0,237997.0,False
+Uroš Račić,uros racic,u racic,244253.0,U. Račić,Uroš Račić,exact_long_name,100.0,244253.0,False
+Vahid Amiri,vahid amiri,v amiri,225309.0,N. Amiri,Nadiem Amiri,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Vanja Milinković-Savić,vanja milinkovic savic,v savic,224836.0,V. Milinković-Savić,Vanja Milinković-Savić,exact_long_name,100.0,224836.0,False
+Victor Nelsson,victor nelsson,v nelsson,235658.0,V. Nelsson,Victor Enok Nelsson,exact_player_to_short_name,99.0,235658.0,False
+Vincent Aboubakar,vincent aboubakar,v aboubakar,199069.0,V. Aboubakar,Vincent Paté Aboubakar,exact_player_to_short_name,99.0,199069.0,False
+Vincent Janssen,vincent janssen,v janssen,226537.0,V. Janssen,Vincent Janssen,exact_long_name,100.0,226537.0,False
+Vinicius Júnior,vinicius,vinicius,238794.0,Vinícius Jr.,Vinícius José Paixão de Oliveira Júnior,exact_short_name,100.0,238794.0,False
+Virgil van Dijk,virgil van dijk,v van dijk,203376.0,V. van Dijk,Virgil van Dijk,exact_long_name,100.0,203376.0,False
+Vitinha,vitinha,vitinha,255253.0,Vitinha,Vítor Machado Ferreira,exact_short_name,100.0,255253.0,False
+Wahbi Khazri,wahbi khazri,w khazri,194845.0,W. Khazri,Wahbi Khazri,exact_long_name,100.0,194845.0,False
+Wajdi Kechrida,wajdi kechrida,w kechrida,264008.0,W. Kechrida,Wajdi Kechrida,exact_long_name,100.0,264008.0,False
+Walid Cheddira,walid cheddira,w cheddira,,,,unmatched,,,True
+Walker Zimmerman,walker zimmerman,w zimmerman,212591.0,W. Zimmerman,Walker Dwain Zimmerman,exact_player_to_short_name,99.0,212591.0,False
+Wataru Endo,wataru endo,w endo,232487.0,W. Endo,遠藤 航,exact_player_to_short_name,99.0,232487.0,False
+Wayne Hennessey,wayne hennessey,w hennessey,170084.0,W. Hennessey,Wayne Robert Hennessey,exact_player_to_short_name,99.0,170084.0,False
+Weston McKennie,weston mckennie,w mckennie,238744.0,W. McKennie,Weston James Earl McKennie,exact_player_to_short_name,99.0,238744.0,False
+William Carvalho,william carvalho,w carvalho,207566.0,William Carvalho,William Silva de Carvalho,exact_short_name,100.0,207566.0,False
+William Pacho,william pacho,w pacho,256196.0,W. Pacho,William Joel Pacho Tenorio,exact_player_to_short_name,99.0,256196.0,False
+William Saliba,william saliba,w saliba,243715.0,W. Saliba,William Alain André Gabriel Saliba,exact_player_to_short_name,99.0,243715.0,False
+Wojciech Szczęsny,wojciech szczesny,w szczesny,186153.0,W. Szczęsny,Wojciech Tomasz Szczęsny,exact_player_to_short_name,99.0,186153.0,False
+Wout Faes,wout faes,w faes,235036.0,W. Faes,Wout Faes,exact_long_name,100.0,235036.0,False
+Wout Weghorst,wout weghorst,w weghorst,223689.0,W. Weghorst,Wout Weghorst,exact_long_name,100.0,223689.0,False
+Wéverton,weverton,weverton,,,,unmatched,,,True
+Xavi Simons,xavi simons,x simons,245367.0,X. Simons,Xavi Simons,exact_long_name,100.0,245367.0,False
+Xavier Arreaga,xavier arreaga,x arreaga,246406.0,X. Arreaga,Xavier Ricardo Arreaga Bermello,exact_player_to_short_name,99.0,246406.0,False
+Xherdan Shaqiri,xherdan shaqiri,x shaqiri,193348.0,X. Shaqiri,Xherdan Shaqiri,exact_long_name,100.0,193348.0,False
+Yahya Attiat Allah,yahya attiat allah,y allah,,,,unmatched,,,True
+Yahya Jabrane,yahya jabrane,y jabrane,,,,unmatched,,,True
+Yann Sommer,yann sommer,y sommer,177683.0,Y. Sommer,Yann Sommer,exact_long_name,100.0,177683.0,False
+Yannick Carrasco,yannick carrasco,y carrasco,208418.0,Y. Carrasco,Yannick Ferreira Carrasco,exact_player_to_short_name,99.0,208418.0,False
+Yasser Al-Shahrani,yasser al shahrani,y shahrani,210603.0,Y. Al Shahrani,Yasir Gharsan Al-Shahrani,exact_player_to_short_from_long,99.0,210603.0,False
+Yassine Bounou,yassine bounou,y bounou,209981.0,Y. Bounou,Yassine Bounou,exact_long_name,100.0,209981.0,False
+Yassine Meriah,yassine meriah,y meriah,241746.0,Y. Meriah,Yassine Meriah,exact_long_name,100.0,241746.0,False
+Yeltsin Tejeda,yeltsin tejeda,y tejeda,,,,unmatched,,,True
+Yeremi Pino,yeremi pino,y pino,259377.0,Yeremy Pino,Yeremi Jesús Santos Pino,exact_player_to_short_from_long,99.0,259377.0,False
+Yoon Jong-gyu,yoon jong gyu,y gyu,237965.0,Yoon Jong Gyu,윤종규 Jong Gyu Yoon,exact_short_name,100.0,237965.0,False
+Youri Tielemans,youri tielemans,y tielemans,216393.0,Y. Tielemans,Youri Tielemans,exact_long_name,100.0,216393.0,False
+Yousef Hassan,yousef hassan,y hassan,263974.0,Y. Al Hassan,Yacoub Al Hassan,exact_player_to_short_from_long,99.0,263974.0,False
+Youssef En-Nesyri,youssef en nesyri,y nesyri,235410.0,Y. En-Nesyri,Youssef En-Nesyri,exact_long_name,100.0,235410.0,False
+Youssef Msakni,youssef msakni,y msakni,237138.0,Y. Maziz,Youssef Maziz,long_name_fuzzy|player_key,81.4814814814815,,True
+Youssouf Fofana,youssouf fofana,y fofana,245630.0,Y. Fofana,Youssouf Fofana,exact_long_name,100.0,245630.0,False
+Youssouf Sabaly,youssouf sabaly,y sabaly,215699.0,Y. Sabaly,Youssouf Sabaly,exact_long_name,100.0,215699.0,False
+Youssoufa Moukoko,youssoufa moukoko,y moukoko,,,,unmatched,,,True
+Youstin Salas,youstin salas,y salas,,,,unmatched,,,True
+Yuki Soma,yuki soma,y soma,246316.0,Y. Soma,相馬 勇紀,exact_player_to_short_name,99.0,246316.0,False
+Yunus Musah,yunus musah,y musah,253177.0,Y. Musah,Yunus Dimoara Musah,exact_player_to_short_name,99.0,253177.0,False
+Yussuf Poulsen,yussuf poulsen,y poulsen,207791.0,Y. Poulsen,Yussuf Yurary Poulsen,exact_player_to_short_name,99.0,207791.0,False
+Yuto Nagatomo,yuto nagatomo,y nagatomo,194359.0,Y. Nagatomo,長友 佑都,exact_player_to_short_name,99.0,194359.0,False
+Zakaria Aboukhlal,zakaria aboukhlal,z aboukhlal,248564.0,Z. Aboukhlal,Zakaria Aboukhlal,exact_long_name,100.0,248564.0,False
+Zeno Debast,zeno debast,z debast,254262.0,Z. Debast,Zeno Debast,exact_long_name,100.0,254262.0,False
+Álvaro Morata,alvaro morata,a morata,201153.0,Morata,Álvaro Borja Morata Martín,short_name_fuzzy|player_shortlike_key,85.71428571428572,,True
+Álvaro Zamora,alvaro zamora,a zamora,260089.0,A. González,Albert José González Zamora,exact_player_to_short_from_long,99.0,260089.0,False
+Ángel Correa,angel correa,a correa,214997.0,Á. Correa,Ángel Martín Correa,exact_player_to_short_name,99.0,214997.0,False
+Ángel Di María,angel di maria,a di maria,183898.0,Á. Di María,Ángel Fabián Di María Hernández,exact_player_to_short_name,99.0,183898.0,False
+Ángel Mena,angel mena,a mena,223053.0,Á. Mena,Ángel Israel Mena Delgado,exact_player_to_short_name,99.0,223053.0,False
+Ángelo Preciado,angelo preciado,a preciado,241412.0,A. Preciado,Eduar Ayrton Preciado García,exact_player_to_short_name,99.0,241412.0,False
+Éder Militão,eder militao,e militao,240130.0,Éder Militão,Éder Gabriel Militão,exact_short_name,100.0,240130.0,False
+Óscar Duarte,oscar duarte,o duarte,212772.0,Ó. Duarte,Óscar Esau Duarte Gaitán,exact_player_to_short_name,99.0,212772.0,False
+İlkay Gündoğan,ilkay gundogan,i gundogan,186942.0,İ. Gündoğan,İlkay Gündoğan,exact_long_name,100.0,186942.0,False
+Łukasz Skorupski,ukasz skorupski,u skorupski,189908.0,Ł. Skorupski,Łukasz Skorupski,exact_long_name,100.0,189908.0,False
