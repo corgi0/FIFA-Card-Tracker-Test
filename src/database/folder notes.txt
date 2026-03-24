@@ -1,0 +1,7 @@
+FILE STRUCTURE FOR THE DATABASE FOLDER IN CASE IT IS CONFUSING:
+
+use "database creation script.sql" to create the database
+
+the files in the "db reference commands" folder are SQL commands that
+i wrote down in case i need them later to use the database. they are bloat 
+and should not ship in the final product.
