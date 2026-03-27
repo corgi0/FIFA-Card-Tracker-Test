@@ -748,3 +748,253 @@ PLACEHOLDER,Álvaro Morata,Spain,FW,1992
 PLACEHOLDER,Álvaro Zamora,Costa Rica,MF,2002
 PLACEHOLDER,Ángel Di María,Argentina,MF,1988
 PLACEHOLDER,Éder Militão,Brazil,DF,1998
+PLACEHOLDER,Abdelhamid Sabiri,Morocco,MF,1996
+PLACEHOLDER,Abdessamad Ezzalzouli,Morocco,FW,2001
+PLACEHOLDER,Abdul Fatawu Issahaku,Ghana,FW,2004
+PLACEHOLDER,Abdulaziz Hatem,Qatar,MF,1990
+PLACEHOLDER,Abdulelah Al-Amri,Saudi Arabia,DF,1997
+PLACEHOLDER,Abdulellah Al-Malki,Saudi Arabia,MF,1994
+PLACEHOLDER,Abdullah Otayf,Saudi Arabia,MF,1992
+PLACEHOLDER,Abdulrahman Al-Aboud,Saudi Arabia,MF,1995
+PLACEHOLDER,Abolfazl Jalali,IR Iran,DF,1998
+PLACEHOLDER,Achraf Dari,Morocco,DF,1999
+PLACEHOLDER,Ahmad Nourollahi,IR Iran,MF,1993
+PLACEHOLDER,Ahmed Alaaeldin,Qatar,FW,1993
+PLACEHOLDER,Ahmed Reda Tagnaouti,Morocco,GK,1996
+PLACEHOLDER,Aimen Dahmen,Tunisia,GK,1997
+PLACEHOLDER,Ajdin Hrustic,Australia,MF,1996
+PLACEHOLDER,Akram Afif,Qatar,FW,1996
+PLACEHOLDER,Alejandro Balde,Spain,DF,2003
+PLACEHOLDER,Alex Sandro,Brazil,DF,1991
+PLACEHOLDER,Alex Telles,Brazil,DF,1992
+PLACEHOLDER,Alexis Mac Allister,Argentina,MF,1998
+PLACEHOLDER,Ali Al-Bulaihi,Saudi Arabia,DF,1989
+PLACEHOLDER,Ali Assadalla,Qatar,MF,1993
+PLACEHOLDER,Ali Maâloul,Tunisia,DF,1990
+PLACEHOLDER,Alisson,Brazil,GK,1992
+PLACEHOLDER,Andre-Frank Zambo Anguissa,Cameroon,MF,1995
+PLACEHOLDER,André Ayew,Ghana,MF,1989
+PLACEHOLDER,Ansu Fati,Spain,FW,2002
+PLACEHOLDER,Anthony Contreras,Costa Rica,FW,2000
+PLACEHOLDER,Antony,Brazil,FW,2000
+PLACEHOLDER,Ardon Jasari,Switzerland,FW,2002
+PLACEHOLDER,Armel Bella Kotchap,Germany,DF,2001
+PLACEHOLDER,Asiri Haitham,Saudi Arabia,FW,2001
+PLACEHOLDER,Assim Madibo,Qatar,MF,1996
+PLACEHOLDER,Aymen Mathlouthi,Tunisia,GK,1984
+PLACEHOLDER,Badr Banoun,Morocco,DF,1993
+PLACEHOLDER,Bamba Dieng,Senegal,FW,2000
+PLACEHOLDER,Bassam Al-Rawi,Qatar,DF,1997
+PLACEHOLDER,Bechir Ben Saïd,Tunisia,GK,1992
+PLACEHOLDER,Bernardo Silva,Portugal,MF,1994
+PLACEHOLDER,Bilal El Khannous,Morocco,MF,2004
+PLACEHOLDER,Bilel Ifa,Tunisia,DF,1990
+PLACEHOLDER,Boualem Khoukhi,Qatar,DF,1990
+PLACEHOLDER,Brandon Aguilera,Costa Rica,MF,2003
+PLACEHOLDER,Bruno Guimarães,Brazil,MF,1997
+PLACEHOLDER,Carlos Soler,Spain,MF,1997
+PLACEHOLDER,Casemiro,Brazil,MF,1992
+PLACEHOLDER,Celso Borges,Costa Rica,MF,1988
+PLACEHOLDER,Charles De Ketelaere,Belgium,FW,2001
+PLACEHOLDER,Cho Guesung,Korea Republic,FW,1998
+PLACEHOLDER,Cho Hyun-woo,Korea Republic,GK,1991
+PLACEHOLDER,Cho Yumin,Korea Republic,FW,1996
+PLACEHOLDER,Cristiano Ronaldo,Portugal,FW,1985
+PLACEHOLDER,César Azpilicueta,Spain,DF,1989
+PLACEHOLDER,Dani Alves,Brazil,DF,1983
+PLACEHOLDER,Dani Carvajal,Spain,DF,1992
+PLACEHOLDER,Dani Olmo,Spain,FW,1998
+PLACEHOLDER,Daniel Afriyie Barnieh,Ghana,FW,2001
+PLACEHOLDER,Daniel Chacón,Costa Rica,MF,2001
+PLACEHOLDER,Danilo,Brazil,DF,1991
+PLACEHOLDER,Danlad Ibrahim,Ghana,GK,2002
+PLACEHOLDER,David Raya,Spain,FW,1995
+PLACEHOLDER,Dayne St. Clair,Canada,GK,1997
+PLACEHOLDER,Dejan Lovren,Croatia,DF,1989
+PLACEHOLDER,Devis Epassy,Cameroon,GK,1993
+PLACEHOLDER,Diogo Costa,Portugal,GK,1999
+PLACEHOLDER,Diogo Dalot,Portugal,DF,1999
+PLACEHOLDER,Douglas López,Costa Rica,MF,1998
+PLACEHOLDER,Ederson,Brazil,GK,1993
+PLACEHOLDER,Edouard Mendy,Senegal,GK,1992
+PLACEHOLDER,Ehsan Hajsafi,IR Iran,MF,1990
+PLACEHOLDER,Esteban Alvarado,Costa Rica,GK,1989
+PLACEHOLDER,Everton Ribeiro,Brazil,MF,1989
+PLACEHOLDER,Fabinho,Brazil,MF,1993
+PLACEHOLDER,Famara Diedhiou,Senegal,FW,1992
+PLACEHOLDER,Ferjani Sassi,Tunisia,MF,1992
+PLACEHOLDER,Firas Al-Buraikan,Saudi Arabia,MF,2000
+PLACEHOLDER,Fred,Brazil,MF,1993
+PLACEHOLDER,Frenkie de Jong,Netherlands,MF,1997
+PLACEHOLDER,Gabriel Jesus,Brazil,FW,1997
+PLACEHOLDER,Garang Kuol,Australia,FW,2004
+PLACEHOLDER,Gavi,Spain,MF,2004
+PLACEHOLDER,Georges-Kévin N'Koudou,Cameroon,FW,1995
+PLACEHOLDER,Ghaylène Chaalali,Tunisia,MF,1994
+PLACEHOLDER,Giorgian De Arrascaeta,Uruguay,MF,1994
+PLACEHOLDER,Gleison Bremer,Brazil,DF,1997
+PLACEHOLDER,Gonçalo Ramos,Portugal,FW,2001
+PLACEHOLDER,Guillermo Varela,Uruguay,DF,1993
+PLACEHOLDER,Hassan Al Tambakti,Saudi Arabia,DF,1999
+PLACEHOLDER,Hassan Al-Haydos,Qatar,MF,1990
+PLACEHOLDER,Hernán Galíndez,Ecuador,GK,1987
+PLACEHOLDER,Homam Ahmed,Qatar,DF,1999
+PLACEHOLDER,Hong Chul,Korea Republic,DF,1990
+PLACEHOLDER,Hossein Hosseini,IR Iran,GK,1992
+PLACEHOLDER,Hossein Kanaanizadegan,IR Iran,DF,1994
+PLACEHOLDER,Hugo Guillamón,Spain,DF,2000
+PLACEHOLDER,Hwang Hee-chan,Korea Republic,MF,1996
+PLACEHOLDER,Hwang In-beom,Korea Republic,MF,1996
+PLACEHOLDER,Hwang Ui-jo,Korea Republic,FW,1992
+PLACEHOLDER,Ismail Mohamad,Qatar,FW,1990
+PLACEHOLDER,Ivica Ivušić,Croatia,GK,1995
+PLACEHOLDER,Iñaki Williams,Ghana,FW,1994
+PLACEHOLDER,Jakub Kiwior,Poland,DF,2000
+PLACEHOLDER,Jassem Gaber,Qatar,DF,2002
+PLACEHOLDER,Jawad El Yamiq,Morocco,DF,1992
+PLACEHOLDER,Jeong Woo-yeong,Korea Republic,MF,1999
+PLACEHOLDER,Jerome Ngom Mbekeli,Cameroon,MF,1998
+PLACEHOLDER,Jewison Bennette,Costa Rica,MF,2004
+PLACEHOLDER,Johan Venegas,Costa Rica,FW,1988
+PLACEHOLDER,Jordi Alba,Spain,DF,1989
+PLACEHOLDER,José Luis Rodríguez Bebanz,Uruguay,DF,1997
+PLACEHOLDER,João Cancelo,Portugal,DF,1994
+PLACEHOLDER,João Félix,Portugal,FW,1999
+PLACEHOLDER,João Mário,Portugal,FW,1993
+PLACEHOLDER,João Palhinha,Portugal,MF,1995
+PLACEHOLDER,Jung Woo-young,Korea Republic,MF,1989
+PLACEHOLDER,Karim Boudiaf,Qatar,MF,1990
+PLACEHOLDER,Karl Toko Ekambi,Cameroon,FW,1992
+PLACEHOLDER,Kendall Waston,Costa Rica,DF,1988
+PLACEHOLDER,Kevin De Bruyne,Belgium,FW,1991
+PLACEHOLDER,Kevin Rodríguez,Ecuador,FW,2000
+PLACEHOLDER,Keysher Fuller,Costa Rica,DF,1994
+PLACEHOLDER,Khalid Muneer,Qatar,FW,1998
+PLACEHOLDER,Kim Jin-su,Korea Republic,DF,1992
+PLACEHOLDER,Kim Min-jae,Korea Republic,DF,1996
+PLACEHOLDER,Kim Moonhwan,Korea Republic,DF,1995
+PLACEHOLDER,Kim Seung-gyu,Korea Republic,GK,1990
+PLACEHOLDER,Kim Tae-hwan,Korea Republic,DF,1989
+PLACEHOLDER,Kim Young-gwon,Korea Republic,DF,1990
+PLACEHOLDER,Koke,Spain,MF,1992
+PLACEHOLDER,Kudus Mohammed,Ghana,FW,2000
+PLACEHOLDER,Kwon Chang-hoon,Korea Republic,FW,1994
+PLACEHOLDER,Kwon Kyung-won,Korea Republic,DF,1992
+PLACEHOLDER,Lawrence Ati-Zigi,Ghana,GK,1996
+PLACEHOLDER,Lee Jae-sung,Korea Republic,MF,1992
+PLACEHOLDER,Lee Kangin,Korea Republic,MF,2001
+PLACEHOLDER,Lucas Paquetá,Brazil,MF,1997
+PLACEHOLDER,Manaf Nurudeen,Ghana,GK,1999
+PLACEHOLDER,Manuel Ugarte Ribeiro,Uruguay,MF,2001
+PLACEHOLDER,Marc-André ter Stegen,Germany,GK,1992
+PLACEHOLDER,Marco Asensio,Spain,FW,1996
+PLACEHOLDER,Marcos Llorente,Spain,DF,1995
+PLACEHOLDER,Marou Souaibou,Cameroon,FW,2000
+PLACEHOLDER,Marquinhos,Brazil,DF,1994
+PLACEHOLDER,Marten de Roon,Netherlands,MF,1991
+PLACEHOLDER,Martin Erlic,Croatia,DF,1998
+PLACEHOLDER,Martinelli,Brazil,FW,2001
+PLACEHOLDER,Matheus Nunes,Portugal,MF,1998
+PLACEHOLDER,Matthijs de Ligt,Netherlands,DF,1999
+PLACEHOLDER,Mehdi Torabi,IR Iran,MF,1994
+PLACEHOLDER,Memphis,Netherlands,FW,1994
+PLACEHOLDER,Meshaal Barsham,Qatar,GK,1998
+PLACEHOLDER,Milad Mohammadi,IR Iran,DF,1993
+PLACEHOLDER,Mohamed Ali Ben Romdhane,Tunisia,MF,1999
+PLACEHOLDER,Mohammed Al Yami,Saudi Arabia,GK,1997
+PLACEHOLDER,Mohammed Al-Breik,Saudi Arabia,DF,1992
+PLACEHOLDER,Mohammed Al-Owais,Saudi Arabia,GK,1991
+PLACEHOLDER,Mohammed Muntari,Qatar,FW,1993
+PLACEHOLDER,Mohammed Waad,Qatar,MF,1999
+PLACEHOLDER,Montassar Talbi,Tunisia,DF,1998
+PLACEHOLDER,Mostafa Meshaal,Qatar,MF,2001
+PLACEHOLDER,Mouez Hassen,Tunisia,GK,1995
+PLACEHOLDER,Moumi Ngamaleu,Cameroon,FW,1994
+PLACEHOLDER,Munir,Morocco,GK,1989
+PLACEHOLDER,Musab Kheder,Qatar,DF,1993
+PLACEHOLDER,Na Sang-ho,Korea Republic,FW,1996
+PLACEHOLDER,Nader Ghandri,Tunisia,DF,1995
+PLACEHOLDER,Naif Al-Hadhrami,Qatar,MF,2001
+PLACEHOLDER,Nasser Al-Dawsari,Saudi Arabia,FW,1998
+PLACEHOLDER,Nawaf Al Abed,Saudi Arabia,MF,1990
+PLACEHOLDER,Nawaf Al Aqidi,Saudi Arabia,GK,2000
+PLACEHOLDER,Neymar,Brazil,MF,1992
+PLACEHOLDER,Nicolas Jackson,Senegal,FW,2001
+PLACEHOLDER,Nicolas Nkoulou,Cameroon,DF,1990
+PLACEHOLDER,Nicolás De La Cruz,Uruguay,MF,1997
+PLACEHOLDER,Nouhou Tolo,Cameroon,DF,1997
+PLACEHOLDER,Nuno Mendes,Portugal,DF,2002
+PLACEHOLDER,Néstor Araujo,Mexico,DF,1991
+PLACEHOLDER,Otávio,Portugal,MF,1995
+PLACEHOLDER,Pablo Sarabia,Spain,FW,1992
+PLACEHOLDER,Paik Seung-ho,Korea Republic,MF,1997
+PLACEHOLDER,Patrick Sequeira,Costa Rica,GK,1999
+PLACEHOLDER,Pau Torres,Spain,DF,1997
+PLACEHOLDER,Payam Niazmand,IR Iran,GK,1995
+PLACEHOLDER,Pedri,Spain,MF,2002
+PLACEHOLDER,Pedro,Brazil,FW,1997
+PLACEHOLDER,Pepe,Portugal,DF,1983
+PLACEHOLDER,Pierre Kunde,Cameroon,MF,1995
+PLACEHOLDER,Rafael Leão,Portugal,FW,1999
+PLACEHOLDER,Ramin Rezaeian,IR Iran,DF,1990
+PLACEHOLDER,Randal Kolo Muani,France,FW,1998
+PLACEHOLDER,Raphinha,Brazil,FW,1996
+PLACEHOLDER,Rasmus Nissen,Denmark,DF,1997
+PLACEHOLDER,Ricardo Horta,Portugal,FW,1994
+PLACEHOLDER,Richarlison,Brazil,FW,1997
+PLACEHOLDER,Roan Wilson,Costa Rica,MF,2002
+PLACEHOLDER,Robert Arboleda,Ecuador,DF,1991
+PLACEHOLDER,Rodri,Spain,DF,1996
+PLACEHOLDER,Rodrigo De Paul,Argentina,MF,1994
+PLACEHOLDER,Rodrygo,Brazil,MF,2001
+PLACEHOLDER,Roozbeh Cheshmi,IR Iran,DF,1993
+PLACEHOLDER,Rui Patrício,Portugal,GK,1988
+PLACEHOLDER,Ró-Ró,Qatar,DF,1990
+PLACEHOLDER,Rúben Dias,Portugal,DF,1997
+PLACEHOLDER,Rúben Neves,Portugal,MF,1997
+PLACEHOLDER,Saad Al Sheeb,Qatar,GK,1990
+PLACEHOLDER,Saleh Al-Shehri,Saudi Arabia,FW,1993
+PLACEHOLDER,Salem Al-Dawsari,Saudi Arabia,MF,1991
+PLACEHOLDER,Salem Al-Hajri,Qatar,MF,1996
+PLACEHOLDER,Salis Abdul Samed,Ghana,MF,2000
+PLACEHOLDER,Salman Al-Faraj,Saudi Arabia,MF,1989
+PLACEHOLDER,Sami Al-Najei,Saudi Arabia,MF,1997
+PLACEHOLDER,Samuel Oum Gouet,Cameroon,MF,1997
+PLACEHOLDER,Sardar Azmoun,IR Iran,FW,1995
+PLACEHOLDER,Seifeddine Jaziri,Tunisia,FW,1993
+PLACEHOLDER,Sergio Busquets,Spain,MF,1988
+PLACEHOLDER,Shoja' Khalilzadeh,IR Iran,DF,1989
+PLACEHOLDER,Son Heung-min,Korea Republic,FW,1992
+PLACEHOLDER,Son Jun-ho,Korea Republic,MF,1992
+PLACEHOLDER,Song Bumkeun,Korea Republic,GK,1997
+PLACEHOLDER,Song Minkyu,Korea Republic,FW,1999
+PLACEHOLDER,Stefan de Vrij,Netherlands,DF,1992
+PLACEHOLDER,Stephen Eustáquio,Canada,MF,1996
+PLACEHOLDER,Steven Vitória,Canada,DF,1987
+PLACEHOLDER,Strahinja Eraković,Serbia,DF,2001
+PLACEHOLDER,Sultan Al-Ghanam,Saudi Arabia,DF,1994
+PLACEHOLDER,Taha Yassine Khenissi,Tunisia,FW,1992
+PLACEHOLDER,Tarek Salman,Qatar,DF,1997
+PLACEHOLDER,Thiago Silva,Brazil,DF,1984
+PLACEHOLDER,Unai Simón,Spain,GK,1997
+PLACEHOLDER,Vahid Amiri,IR Iran,FW,1988
+PLACEHOLDER,Vinicius Júnior,Brazil,FW,2000
+PLACEHOLDER,Virgil van Dijk,Netherlands,DF,1991
+PLACEHOLDER,Vitinha,Portugal,MF,2000
+PLACEHOLDER,Walid Cheddira,Morocco,FW,1998
+PLACEHOLDER,William Carvalho,Portugal,MF,1992
+PLACEHOLDER,Wéverton,Brazil,GK,1987
+PLACEHOLDER,Yahya Attiat Allah,Morocco,DF,1995
+PLACEHOLDER,Yahya Jabrane,Morocco,MF,1991
+PLACEHOLDER,Yasser Al-Shahrani,Saudi Arabia,DF,1992
+PLACEHOLDER,Yeltsin Tejeda,Costa Rica,MF,1992
+PLACEHOLDER,Yeremi Pino,Spain,FW,2002
+PLACEHOLDER,Yoon Jong-gyu,Korea Republic,DF,1998
+PLACEHOLDER,Yousef Hassan,Qatar,GK,1996
+PLACEHOLDER,Youssef Msakni,Tunisia,MF,1990
+PLACEHOLDER,Youssoufa Moukoko,Germany,FW,2004
+PLACEHOLDER,Youstin Salas,Costa Rica,DF,1996
+PLACEHOLDER,Álvaro Morata,Spain,FW,1992
+PLACEHOLDER,Álvaro Zamora,Costa Rica,MF,2002
+PLACEHOLDER,Ángel Di María,Argentina,MF,1988
+PLACEHOLDER,Éder Militão,Brazil,DF,1998
