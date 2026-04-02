@@ -23,7 +23,7 @@ def get_sofifa_url(query):
     driver.get(url + query.replace(' ', '+'))
 
     # Wait until we land on the sofifa page
-    WebDriverWait(driver, 10).until(
+    WebDriverWait(driver, 60).until(
         lambda d: "sofifa" in d.current_url and 'player' in d.current_url
     )
     return driver.current_url
